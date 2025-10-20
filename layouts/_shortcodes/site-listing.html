@@ -1,0 +1,58 @@
+{{ $currentPage := .Page }}
+{{ $showDirs := .Get "dirs" | default "true" | eq "true" }}
+{{ $showFiles := .Get "files" | default "true" | eq "true" }}
+{{ $cols := .Get "cols" | default "2" }}
+{{ $subDirs := slice }}
+{{ $subFiles := slice }}
+{{ $dateFormat := site.Params.dateFormat | default "2006-01-02 15:04" }}
+
+{{/* 收集直屬子目錄和子文件 */}}
+{{ range $currentPage.Pages }}
+  {{ if .IsSection }}
+    {{ $subDirs = $subDirs | append . }}
+  {{ else }}
+    {{ $subFiles = $subFiles | append . }}
+  {{ end }}
+{{ end }}
+
+{{/* 顯示子目錄區塊 */}}
+{{/* 對子目錄按標題排序 */}}
+{{ $subDirs = sort $subDirs "Title" }}
+{{ if and $showDirs $subDirs }}
+  {{ $cardsContent := "" }}
+  {{ range $subDirs }}
+    {{ $cardParams := dict
+      "link" .RelPermalink
+      "title" .Title
+      "icon" "folder"
+      "Page" $currentPage
+      "image" (or .Params.image "https://placehold.co/300x150?text=image")
+    }}
+    {{ $cardsContent = printf "%s%s" $cardsContent (partial "shortcodes/card" $cardParams) }}
+  {{ end }}
+  {{ $cardsParams := dict "content" ($cardsContent | safeHTML) "Page" $currentPage }}
+  {{ if $cols }}
+    {{ $cardsParams = $cardsParams | merge (dict "cols" $cols) }}
+  {{ end }}
+  {{ partial "shortcodes/cards" $cardsParams }}
+{{ end }}
+
+{{/* 顯示子文件區塊 */}}
+{{ if and $showFiles $subFiles }}
+  {{ $cardsContent := "" }}
+  {{ range $subFiles }}
+    {{ $cardParams := dict
+      "link" .RelPermalink
+      "title" .Title
+      "subtitle" (.Date.Format $dateFormat)
+      "icon" "document"
+      "Page" $currentPage
+    }}
+    {{ $cardsContent = printf "%s%s" $cardsContent (partial "shortcodes/card" $cardParams) }}
+  {{ end }}
+  {{ $cardsParams := dict "content" ($cardsContent | safeHTML) "Page" $currentPage }}
+  {{ if $cols }}
+    {{ $cardsParams = $cardsParams | merge (dict "cols" $cols) }}
+  {{ end }}
+  {{ partial "shortcodes/cards" $cardsParams }}
+{{ end }}

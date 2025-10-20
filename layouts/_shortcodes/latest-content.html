@@ -1,0 +1,33 @@
+{{ $section := .Get "section" }}
+{{ $limit := .Get "limit" | default 5 }}
+{{ $cols := .Get "cols" | default "2" }}
+{{ $type := .Get "type" | default "docs" }}
+{{ $dateFormat := site.Params.dateFormat | default "2006-01-02 15:04" }}
+
+{{ $pages := where site.RegularPages "Section" $section }}
+{{ $latestPages := first $limit ($pages.ByLastmod.Reverse) }}
+
+{{ if $latestPages }}
+{{ $cardsContent := "" }}
+{{ range $latestPages }}
+  {{ $page := . }}
+  {{ $icon := cond (eq $type "blog") "document-text" "cube" }}
+  {{ $cardParams := dict
+    "link" .RelPermalink
+    "title" .Title
+    "subtitle" (.Date.Format $dateFormat)
+    "icon" $icon
+    "Page" $.Page
+  }}
+  {{ with .Description }}
+    {{ $cardParams = $cardParams | merge (dict "subtitle" (printf "%s - %s" ($page.Date.Format $dateFormat) .)) }}
+  {{ end }}
+  {{ $cardsContent = printf "%s%s" $cardsContent (partial "shortcodes/card" $cardParams) }}
+{{ end }}
+
+{{ $cardsParams := dict "content" ($cardsContent | safeHTML) "Page" $.Page }}
+{{ if $cols }}
+  {{ $cardsParams = $cardsParams | merge (dict "cols" $cols) }}
+{{ end }}
+{{ partial "shortcodes/cards" $cardsParams }}
+{{ end }}
