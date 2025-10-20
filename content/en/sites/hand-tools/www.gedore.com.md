@@ -1,6 +1,7 @@
 ---
 title: GEDORE Werkzeugfabrik GmbH & Co. KG
 description: GEDORE Werkzeugfabrik GmbH & Co. KG is a renowned German manufacturer of professional hand tools, known for its high quality and extensive product range serving industrial and workshop sectors since 1919.
+date: 2025-09-24 14:38:00
 ---
 
 ## Website
