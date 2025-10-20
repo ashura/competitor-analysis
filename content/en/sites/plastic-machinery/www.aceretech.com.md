@@ -1,7 +1,7 @@
 ---
 title: ACERETECH Waste Recycle Lines Manufacturer
 description: ACERETECH Waste Recycle Lines Manufacturer is a global supplier specializing in the development and manufacturing of advanced plastic recycling machinery. With state-of-the-art technology and innovative European design, the company offers comprehensive solutions for plastic waste recycling, washing, and re-pelletizing, serving over 1,260 customers across more than 100 countries.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

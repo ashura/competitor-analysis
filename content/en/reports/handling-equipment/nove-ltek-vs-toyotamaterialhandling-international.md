@@ -1,7 +1,7 @@
 ---
 title: Noveltek vs. Toyota Material Handling International
 description: A comparative analysis of Noveltek and Toyota Material Handling International, two leading companies in the forklift and material handling equipment industry, highlighting their products, certifications, key features, and market focus.
-date: 2025-10-16 16:51:00
+date: 2025-10-16T16:51:00+08:00
 ---
 
 **Websites:**

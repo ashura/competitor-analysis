@@ -1,7 +1,7 @@
 ---
 title: Acelon vs. LEALEA Group
 description: A comparative report on Acelon Chemicals & Fiber Corporation and LEALEA Group, two prominent Taiwanese companies in the textile industry.
-date: 2025-10-15 16:40:00
+date: 2025-10-15T16:40:00+08:00
 ---
 
 **Websites:**

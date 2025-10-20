@@ -1,7 +1,7 @@
 ---
 title: Leadership Enterprise Consulting Co., Ltd.
 description: Leadership Enterprise Consulting Co., Ltd. is a leading provider in Taiwan for ISO management systems consulting, training, and certification services, helping organizations achieve excellence in quality, sustainability, risk, environmental, and information security management.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

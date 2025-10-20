@@ -1,7 +1,7 @@
 ---
 title: Max-Lube vs. FK Lubricants
 description: A comparative analysis of Max-Lube and FK Lubricants, two leading lubricant oil manufacturers in Taiwan, focusing on their products, certifications, market presence, and unique features.
-date: 2025-10-13 10:38:00
+date: 2025-10-13T10:38:00+08:00
 categories: ["Chemicals"]
 ---
 

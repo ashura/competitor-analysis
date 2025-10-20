@@ -1,7 +1,7 @@
 ---
 title: Huang Guan vs. Yijia Environmental
 description: A comparative analysis of Huang Guan Special Printery Co., Ltd. and Anqing Yijia Environmental Technology Co.,Ltd., two leading companies in the eco-friendly paper packaging industry, highlighting their products, certifications, key features, and market focus.
-date: 2025-10-16 16:45:00
+date: 2025-10-16T16:45:00+08:00
 ---
 
 ## Website

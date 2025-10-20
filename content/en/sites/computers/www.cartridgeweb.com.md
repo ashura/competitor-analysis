@@ -2,7 +2,7 @@
 linkTitle: www.cartridgeweb.com
 title: Cartridge Web
 description: Cartridge Web is a professional printer cartridge brand, established by General Plastic Industrial Co., Ltd. (GPI), that specializes in manufacturing and supplying compatible and remanufactured toner cartridges and imaging supplies for a broad range of printer brands.
-date: 2025-09-24 15:31:00
+date: 2025-09-24T15:31:00+08:00
 ---
 
 ## Website

@@ -1,7 +1,7 @@
 ---
 title: Shen Ding vs. CRYSTAL TECH
 description: A comparative report on Shen Ding Industrial Co., Ltd. and CRYSTAL TECH, two prominent Taiwanese companies in the ceramics industry.
-date: 2025-10-15 16:51:00
+date: 2025-10-15T16:51:00+08:00
 ---
 
 **Websites**

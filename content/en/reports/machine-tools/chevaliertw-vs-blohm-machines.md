@@ -1,7 +1,7 @@
 ---
 title: Chevalier vs. Blohm Jung
 description: A comprehensive comparison report between Chevalier and Blohm Jung, covering various aspects such as basic information, awards, certifications, key features, products, marketing focus, technical strength, ESG practices, OEM/ODM support, pricing, and testimonials.
-date: 2025-10-20 10:30:00
+date: 2025-10-20T10:30:00+08:00
 ---
 
 **Websites**

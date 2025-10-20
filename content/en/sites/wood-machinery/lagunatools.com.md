@@ -2,7 +2,7 @@
 linkTitle: lagunatools.com
 title: Laguna Tools
 description: Laguna Tools is a leading manufacturer of woodworking and metalworking machinery, renowned for its innovative solutions and industry leadership for over 40 years. Headquartered in Grand Prairie, Texas, the company provides high-quality tools for a wide range of users, from hobbyists to professionals.
-date: 2025-09-23 10:56:00
+date: 2025-09-23T10:56:00+08:00
 ---
 
 ## Website

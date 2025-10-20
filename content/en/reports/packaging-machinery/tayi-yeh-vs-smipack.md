@@ -1,7 +1,7 @@
 ---
 title: TAYI YEH vs. SMIPACK
 description: A comprehensive comparison between TAYI YEH MACHINERY CO., LTD and SMIPACK S.p.A., two prominent packaging machinery manufacturers, highlighting their history, products, certifications, and market focus.
-date: 2025-10-14 14:37:00
+date: 2025-10-14T14:37:00+08:00
 ---
 
 **Websites:**

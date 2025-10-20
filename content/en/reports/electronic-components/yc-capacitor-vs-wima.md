@@ -1,7 +1,7 @@
 ---
 title: Yuhchang Electric vs. WIMA
 description: A detailed comparison between Yuhchang Electric and WIMA, two leading capacitor manufacturers, covering their history, products, certifications, and market focus.
-date: 2025-10-14 14:33:00
+date: 2025-10-14T14:33:00+08:00
 ---
 
 **Websites:**

@@ -1,7 +1,7 @@
 ---
 title: COMORK vs. E-Tech Machinery
 description: A comprehensive comparison report between COMORK Precise Machinery Co., Ltd. and E-Tech Machinery, Inc., covering various aspects such as basic information, awards, certifications, key features, products, marketing focus, technical strength, ESG practices, OEM/ODM support, pricing, and testimonials.
-date: 2025-10-20 10:34:00
+date: 2025-10-20T10:34:00+08:00
 ---
 
 ## Website

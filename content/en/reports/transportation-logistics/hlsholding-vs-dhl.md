@@ -1,7 +1,7 @@
 ---
 title: HLS Honour Lane Shipping vs. DHL
 description: A comparative analysis of HLS Honour Lane Shipping Ltd and DHL, two prominent companies in the transportation and logistics industry, highlighting their services, certifications, awards, and market focus.
-date: 2025-10-16 16:28:00
+date: 2025-10-16T16:28:00+08:00
 ---
 
 **Websites:**

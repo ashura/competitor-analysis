@@ -1,7 +1,7 @@
 ---
 title: Leadership Enterprise vs. SGS Taiwan
 description: A detailed comparison between Leadership Enterprise Consulting Co., Ltd. and SGS Taiwan, covering their services, certifications, awards, and market focus.
-date: 2025-10-14 14:27:00
+date: 2025-10-14T14:27:00+08:00
 ---
 
 **Websites:**

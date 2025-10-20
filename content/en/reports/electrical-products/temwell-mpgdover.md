@@ -1,7 +1,7 @@
 ---
 title: Temwell vs. Microwave Products Group
 description: A detailed comparison between Temwell Corporation and Microwave Products Group, two leading companies in the RF and microwave components industry.
-date: 2025-09-25 10:21:09
+date: 2025-09-25T10:21:09+08:00
 ---
 
 **Websites:**

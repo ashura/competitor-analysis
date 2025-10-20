@@ -1,7 +1,7 @@
 ---
 title: Fong Prean vs. SPAX
 description: A detailed comparison between Fong Prean, a Taiwanese fastener manufacturer, and SPAX, a German fastening technology company, covering their history, products, certifications, and market focus.
-date: 2025-10-14 14:40:00
+date: 2025-10-14T14:40:00+08:00
 ---
 
 **Websites:**

@@ -1,7 +1,7 @@
 ---
 title: Dong Jyue vs. Good Young
 description: A detailed comparison between Dong Jyue Enterprise Co. Ltd and Good Young Co., Ltd., two prominent Taiwanese manufacturers and suppliers of tea, coffee, and beverage ingredients. This report covers their history, pricing, key features, technical strengths, certifications, awards, ESG initiatives, and customer testimonials.
-date: 2025-10-03 09:23:00
+date: 2025-10-03T09:23:00+08:00
 ---
 
 **Websites:**

@@ -1,7 +1,7 @@
 ---
 title: DHL
 description: DHL is a leading global logistics company providing courier, package delivery, express mail, freight transport, supply chain, and e-commerce logistics solutions. Founded in 1969 and now part of DHL Group, it operates worldwide and is known for its innovative approach in international shipping and logistics.
-date: 2025-09-25 16:47:00
+date: 2025-09-25T16:47:00+08:00
 ---
 
 ## Website

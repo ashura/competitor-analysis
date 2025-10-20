@@ -1,7 +1,7 @@
 ---
 title: FALCON MACHINE TOOLS CO., LTD.
 description: FALCON MACHINE TOOLS CO., LTD. (CHEVALIER) is a leading world-class manufacturer of CNC machine tools, specializing in grinding machines, lathes, and milling machines. Committed to innovation, quality, and green transformation, the company offers smart solutions across various industries, including aerospace, automotive, semiconductor, and molds, with a focus on intelligent manufacturing and sustainable development.
-date: 2025-10-20 10:35:00
+date: 2025-10-20T10:35:00+08:00
 ---
 
 ## Website

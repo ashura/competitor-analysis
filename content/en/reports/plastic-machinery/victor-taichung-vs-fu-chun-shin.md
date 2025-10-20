@@ -1,7 +1,7 @@
 ---
 title: Victor Taichung vs. Fu Chun Shin
 description: A detailed comparison between Victor Taichung and Fu Chun Shin, two leading injection molding machine manufacturers in Taiwan.
-date: 2025-09-23 09:21:00
+date: 2025-09-23T09:21:00+08:00
 ---
 
 **Websites:**

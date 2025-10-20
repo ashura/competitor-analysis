@@ -1,7 +1,7 @@
 ---
 title: SGS Taiwan
 description: SGS Taiwan is a leading company in testing, inspection, and certification services, serving various industries across Taiwan for over 70 years with a wide network of offices and laboratories.
-date: 2025-09-25 15:49:00
+date: 2025-09-25T15:49:00+08:00
 ---
 
 ## Website

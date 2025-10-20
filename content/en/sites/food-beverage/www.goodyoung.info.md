@@ -1,7 +1,7 @@
 ---
 title: Good Young Co., Ltd.
 description: Good Young Co., Ltd. is a leading Taiwan-based supplier specializing in wholesale and customized services of tea, coffee, beverage ingredients, and related OEM/ODM solutions for domestic and international clients. With over 30 years of industry experience, it provides a comprehensive, one-stop supply chain with a focus on quality, innovation, and education in tea culture.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

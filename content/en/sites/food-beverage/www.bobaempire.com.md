@@ -2,7 +2,7 @@
 linkTitle: www.bobaempire.com
 title: Empire Eagle Food Co., Ltd.
 description: Empire Eagle Food Co., Ltd. is a professional manufacturer and supplier of bubble tea and bakery ingredients, serving global markets with high-quality upstream materials and innovative concepts since 2002.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

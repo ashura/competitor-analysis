@@ -1,7 +1,7 @@
 ---
 title: Filtermist Limited
 description: Filtermist Limited is a leading UK manufacturer of industrial air filtration and extraction solutions, specializing in oil mist collectors and process fluid filtration systems since 1969. Based in Telford and part of the Swedish Absolent Air Care Group, Filtermist serves diverse manufacturing industries worldwide.
-date: 2025-10-17 16:26:00
+date: 2025-10-17T16:26:00+08:00
 ---
 
 ## Website

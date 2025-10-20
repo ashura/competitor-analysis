@@ -1,7 +1,7 @@
 ---
 title: GaleMed Corporation
 description: GaleMed Corporation is a leading manufacturer specializing in advanced respiratory care products, committed to innovation, product safety, and international quality certifications, serving healthcare needs worldwide.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

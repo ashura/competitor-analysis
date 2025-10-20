@@ -1,7 +1,7 @@
 ---
 title: Leader Automation vs. Crown Digital
 description: A comparative analysis of Leader Automation and Crown Digital in the food and beverage automation sector.
-date: 2025-10-17 16:07:00
+date: 2025-10-17T16:07:00+08:00
 ---
 
 **Websites:**

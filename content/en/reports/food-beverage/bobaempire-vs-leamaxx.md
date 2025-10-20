@@ -1,7 +1,7 @@
 ---
 title: Empire Eagle Food vs. Leamaxx Bubble Tea
 description: A comprehensive comparison between Empire Eagle Food (Boba Empire) and Leamaxx Bubble Tea, two prominent companies in the bubble tea ingredients and supplies industry. This report covers their history, awards, certifications, product lines, key features, marketing focus, technical strengths, ESG initiatives, OEM/ODM support, pricing, and customer testimonials.
-date: 2025-10-07 10:59:00
+date: 2025-10-07T10:59:00+08:00
 ---
 
 **Websites:**

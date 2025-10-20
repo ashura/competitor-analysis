@@ -1,7 +1,7 @@
 ---
 title: LHY Powertrain GmbH & Co. KG
 description: LHY Powertrain GmbH & Co. KG is a leading developer and global supplier of modular drive systems, specializing in high pressure hydraulics, power transmissions, and electronics for mobile and industrial machinery. Headquartered in Aschaffenburg, Germany, the company provides innovative solutions to reduce fuel consumption and emissions for various sectors including construction, agriculture, forestry, and mining.
-date: 2025-10-17 16:24:00
+date: 2025-10-17T16:24:00+08:00
 ---
 
 ## Website

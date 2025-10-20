@@ -1,7 +1,7 @@
 ---
 title: ALLWIN FOOD vs. Leamaxx Bubble Tea
 description: A comparative analysis of ALLWIN FOOD and Leamaxx Bubble Tea, focusing on their certifications, ESG initiatives, feature products, key capabilities, marketing focus, and technical strengths.
-date: 2025-10-01 17:25:00
+date: 2025-10-01T17:25:00+08:00
 ---
 
 **Websites:**

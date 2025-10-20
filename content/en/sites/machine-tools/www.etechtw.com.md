@@ -1,7 +1,7 @@
 ---
 title: E-Tech Machinery, Inc.
 description: E-Tech Machinery, Inc. is a leading global manufacturer specializing in high-quality CNC grinding machines, serving various industries with advanced technology and customized solutions backed by strong expertise and R&D capabilities.
-date: 2025-10-20 10:38:00
+date: 2025-10-20T10:38:00+08:00
 ---
 
 ## Website

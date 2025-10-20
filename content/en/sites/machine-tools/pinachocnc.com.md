@@ -1,7 +1,7 @@
 ---
 title: Pinacho
 description: Pinacho is a leading Spanish manufacturer specializing in precision CNC and conventional horizontal lathes, renowned for over 75 years of high-quality machine tool production and global industry presence.
-date: 2025-09-25 14:55:00
+date: 2025-09-25T14:55:00+08:00
 ---
 
 ## Website

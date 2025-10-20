@@ -1,7 +1,7 @@
 ---
 title: Rextron vs. Adder Technology
 description: A comparative analysis of Rextron International Inc. and Adder Technology, two leading companies in the KVM (Keyboard, Video, Mouse) and AV connectivity industry, highlighting their products, certifications, key features, and market focus.
-date: 2025-10-16 16:34:00
+date: 2025-10-16T16:34:00+08:00
 ---
 
 **Websites:**

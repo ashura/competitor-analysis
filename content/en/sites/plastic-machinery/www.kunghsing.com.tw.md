@@ -1,7 +1,7 @@
 ---
 title: KUNG HSING PLASTIC MACHINERY CO., LTD.
 description: KUNG HSING PLASTIC MACHINERY CO., LTD. is a Taiwan-based manufacturer specializing in plastic extrusion machinery, including blown film lines, monofilament machines, and plastic recycling equipment, with over 40 years of industry experience.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

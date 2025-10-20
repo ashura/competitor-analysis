@@ -1,7 +1,7 @@
 ---
 title: Earth-Chain vs. Kanetec
 description: A comparative analysis of Earth-Chain and Kanetec, two leading manufacturers of magnetic workholding and lifting solutions, covering their basic information, awards, certifications, key features, products, marketing focus, technical strengths, ESG initiatives, OEM/ODM support, pricing, and testimonials.
-date: 2025-10-09 15:41:00
+date: 2025-10-09T15:41:00+08:00
 ---
 
 ## Website

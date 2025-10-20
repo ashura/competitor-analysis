@@ -1,7 +1,7 @@
 ---
 title: ALLWIN FOOD vs. High Tea
 description: A comparative analysis of ALLWIN FOOD and High Tea, two prominent food and beverage ingredient manufacturers in Taiwan, focusing on their products, certifications, market presence, and unique features.
-date: 2025-10-13 10:30:00
+date: 2025-10-13T10:30:00+08:00
 ---
 
 **Websites:**

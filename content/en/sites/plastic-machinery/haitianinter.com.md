@@ -2,7 +2,7 @@
 linkTitle: haitianinter.com
 title: Haitian International
 description: Haitian International is a globally leading manufacturer of plastic injection molding machines, with extensive production and service networks across key markets in Asia, Europe, America, and beyond.
-date: 2025-09-23 16:53:00
+date: 2025-09-23T16:53:00+08:00
 ---
 
 ## Website

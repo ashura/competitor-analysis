@@ -1,7 +1,7 @@
 ---
 title: Sanhao Rubber vs. Sansho Kogyo
 description: A detailed comparison between Sanhao Rubber and Sansho Kogyo, two prominent manufacturers in the rubber products industry. This report covers their basic information, awards, certifications, key features, featured products, marketing focus, technical strengths, ESG initiatives, OEM/ODM support, pricing, and customer testimonials.
-date: 2025-10-07 09:18:00
+date: 2025-10-07T09:18:00+08:00
 ---
 
 **Websites**

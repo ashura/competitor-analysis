@@ -1,7 +1,7 @@
 ---
 title: Teeming Machinery
 description: Teeming Machinery is a leading manufacturer of automatic motor and coil winding machines, specializing in innovative solutions for winding, soldering, pin inserting, and taping, with over 30 years of industry expertise and operations in Taiwan and China.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

@@ -1,7 +1,7 @@
 ---
 title: Adder Technology
 description: Adder Technology is a British manufacturer and global leader in high-performance KVM (keyboard, video, mouse) solutions, specializing in connectivity products that enable secure, real-time control and management of distributed IT systems. Founded in 1984 and headquartered in Bar Hill, Cambridge, UK, Adder serves diverse industries with products such as KVM switches, extenders, converters, and remote management solutions.
-date: 2025-09-25 16:56:00
+date: 2025-09-25T16:56:00+08:00
 ---
 
 ## Website

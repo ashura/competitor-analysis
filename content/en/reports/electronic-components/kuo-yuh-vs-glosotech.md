@@ -1,7 +1,7 @@
 ---
 title: KUOYUH vs. GLOSO TECH
 description: A comparative analysis of KUOYUH and GLOSO TECH, two leading manufacturers of thermal circuit breakers and electrical protection devices in Taiwan, focusing on their products, certifications, market presence, and unique features.
-date: 2025-10-13 10:34:00
+date: 2025-10-13T10:34:00+08:00
 ---
 
 **Websites:**

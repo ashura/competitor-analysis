@@ -1,7 +1,7 @@
 ---
 title: Sun Master vs. Pinacho
 description: A comparative analysis of Sun Master and Pinacho, two leading manufacturers of CNC and manual lathes, covering their basic information, awards, certifications, key features, products, marketing focus, technical strengths, ESG initiatives, OEM/ODM support, pricing, and testimonials.
-date: 2025-10-09 10:53:00
+date: 2025-10-09T10:53:00+08:00
 ---
 
 ## Website

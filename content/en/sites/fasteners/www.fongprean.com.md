@@ -1,7 +1,7 @@
 ---
 title: Fong Prean Industrial Co., Ltd.
 description: Fong Prean Industrial Co., Ltd. is a leading Taiwan-based manufacturer and supplier of construction screws, known for its innovative R&D, customized solutions, and strict adherence to international quality standards. Since 1986, the company has specialized in providing a broad range of fastening solutions for indoor and outdoor applications, servicing global markets with high-performance products and reliable quality.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

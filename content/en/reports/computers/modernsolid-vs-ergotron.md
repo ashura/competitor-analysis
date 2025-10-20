@@ -1,7 +1,7 @@
 ---
 title: Modernsolid vs. Ergotron
 description: A detailed comparison between Modernsolid and Ergotron, two leading companies in ergonomic mounting solutions and workspace products. This report covers their history, awards, certifications, ESG initiatives, product lines, key features, marketing focus, technical strengths, and customer testimonials.
-date: 2025-10-02 11:09:00
+date: 2025-10-02T11:09:00+08:00
 ---
 
 **Websites:**

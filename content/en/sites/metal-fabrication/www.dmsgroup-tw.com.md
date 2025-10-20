@@ -1,7 +1,7 @@
 ---
 title: Direct Manufacturer Supplier International Inc.
 description: Direct Manufacturer Supplier International Inc. (DMS Group) is a global partner based in Taiwan offering custom CNC machining services, including milling, turning, and OEM/ODM manufacturing. Serving diverse industries such as automotive, aerospace, and medical devices, DMS Group specializes in precision parts manufacturing from prototypes to mass production with rapid quoting and delivery.
-date: 2025-09-25 14:46:00
+date: 2025-09-25T14:46:00+08:00
 ---
 
 ## Website

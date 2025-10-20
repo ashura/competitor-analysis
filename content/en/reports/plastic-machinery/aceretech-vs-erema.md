@@ -1,7 +1,7 @@
 ---
 title: ACERETECH vs. EREMA
 description: A comparative analysis of ACERETECH and EREMA in the plastic recycling machinery sector.
-date: 2025-10-17 16:17:00
+date: 2025-10-17T16:17:00+08:00
 ---
 
 **Websites:**

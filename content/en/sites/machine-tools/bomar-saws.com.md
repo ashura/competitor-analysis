@@ -2,7 +2,7 @@
 linkTitle: bomar-saws.com
 title: BOMAR, spol. s r.o.
 description: BOMAR, spol. s r.o. is a medium-sized Czech company specializing in the development and production of cutting machines, particularly band saws, with a lengthy history of innovation and export.
-date: 2025-10-03 15:39:00
+date: 2025-10-03T15:39:00+08:00
 ---
 
 ## Website

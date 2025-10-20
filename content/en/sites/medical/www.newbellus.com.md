@@ -1,7 +1,7 @@
 ---
 title: NEW BELLUS ENTERPRISES CO., LTD.
 description: NEW BELLUS ENTERPRISES CO., LTD. is a global pioneer in microbial fermentation technology, offering contract manufacturing services and a diverse range of health-focused ingredients such as probiotics, medicinal mushrooms, and fermented products. With over 25 years of expertise, the company provides tailored solutions to support digestive, immune, metabolic, and overall wellness, serving markets with innovative R&D, superior manufacturing facilities, and full-service OEM/ODM capabilities.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

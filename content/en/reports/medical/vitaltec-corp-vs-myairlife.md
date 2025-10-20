@@ -1,7 +1,7 @@
 ---
 title: Vitaltec vs. AirLife
 description: A comparative analysis of Vitaltec Corporation and AirLife, two leading companies in the medical device industry specializing in airway management and respiratory care products.
-date: 2025-10-01 11:33:00
+date: 2025-10-01T11:33:00+08:00
 ---
 
 **Websites:**

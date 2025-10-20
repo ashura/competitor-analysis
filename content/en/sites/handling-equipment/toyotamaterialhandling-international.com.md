@@ -1,7 +1,7 @@
 ---
 title: Toyota Material Handling International
 description: Toyota Material Handling International is a leading provider of forklifts and total material handling solutions, offering a full range of products and logistics services under the TOYOTA, BT, and RAYMOND brands. Part of Toyota Industries Corporation, it serves customers in Asia, Latin America, Oceania, the Middle East, and Africa through a global network of local distributors.
-date: 2025-09-25 17:24:00
+date: 2025-09-25T17:24:00+08:00
 ---
 
 ## Website

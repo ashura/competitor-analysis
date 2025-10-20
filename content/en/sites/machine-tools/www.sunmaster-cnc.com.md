@@ -1,7 +1,7 @@
 ---
 title: Shun Chuan Precision Machinery Co., Ltd.
 description: Shun Chuan Precision Machinery Co., Ltd. is a leading Taiwanese manufacturer specializing in the design and production of metalworking machinery, particularly precision manual and CNC lathes, serving global industries since 1994.
-date: 2025-09-25 14:53:00
+date: 2025-09-25T14:53:00+08:00
 ---
 
 ## Website

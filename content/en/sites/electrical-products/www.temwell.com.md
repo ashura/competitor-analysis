@@ -1,7 +1,7 @@
 ---
 title: Temwell Corporation
 description: Temwell Corporation is a Taiwan-based manufacturer specializing in the design and production of RF and microwave filter solutions, serving various industries including wireless communications, aerospace, medical, and military sectors.
-date: 2025-09-25 12:21:00
+date: 2025-09-25T12:21:00+08:00
 ---
 
 ## Website

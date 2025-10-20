@@ -1,7 +1,7 @@
 ---
 title: Orris Drive vs. Kohara Gear Industry
 description: A comparative analysis of Orris Drive and Kohara Gear Industry in the machine parts manufacturing sector.
-date: 2025-10-17 16:14:00
+date: 2025-10-17T16:14:00+08:00
 ---
 
 ## Website

@@ -1,7 +1,7 @@
 ---
 title: NEW BELLUS vs. TCI
 description: A comparative analysis of NEW BELLUS and TCI, two leading Taiwanese companies in the health food and supplement industry, focusing on their products, certifications, market presence, and unique features.
-date: 2025-10-13 10:42:00
+date: 2025-10-13T10:42:00+08:00
 ---
 
 **Websites:**

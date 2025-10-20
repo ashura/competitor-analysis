@@ -1,7 +1,7 @@
 ---
 title: Yeon Chuan vs. Laguna Tools
 description: Yeon Chuan excels at precise woodworking machinery with a strong focus on quality control and sustainability but does not offer the breadth of automated or metalworking solutions found at Laguna Tools. Laguna is recognized for its wide product range (CNCs to bandsaws to lasers), innovative automation features, strong North American presence—and mixed customer service reputation.
-date: 2025-09-25 12:01:00
+date: 2025-09-25T12:01:00+08:00
 ---
 
 **Websites:**

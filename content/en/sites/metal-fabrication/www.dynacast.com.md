@@ -1,7 +1,7 @@
 ---
 title: Dynacast
 description: Dynacast is a global leader in the manufacturing of small engineered precision components, utilizing advanced die casting technologies to serve diverse industries worldwide.
-date: 2025-09-25 14:51:00
+date: 2025-09-25T14:51:00+08:00
 ---
 
 ## Website

@@ -1,7 +1,7 @@
 ---
 title: EREMA Engineering Recycling Maschinen und Anlagen Ges.m.b.H
 description: EREMA Engineering Recycling Maschinen und Anlagen Ges.m.b.H is a world leader in the development and manufacturing of advanced plastic recycling systems and components, headquartered in Ansfelden, Austria, and serving customers globally since 1983.
-date: 2025-09-25 17:49:00
+date: 2025-09-25T17:49:00+08:00
 ---
 
 ## Website

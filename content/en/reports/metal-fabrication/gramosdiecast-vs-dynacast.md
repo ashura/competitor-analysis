@@ -1,7 +1,7 @@
 ---
 title: GRAMOS Die Casting vs. Dynacast
 description: A comparative analysis of GRAMOS Die Casting and Dynacast, two leading companies in the die casting industry, covering their basic information, awards, certifications, key features, products, marketing focus, technical strengths, ESG initiatives, OEM/ODM support, pricing, and testimonials.
-date: 2025-10-09 10:31:00
+date: 2025-10-09T10:31:00+08:00
 ---
 
 **Websites:**

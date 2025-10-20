@@ -1,7 +1,7 @@
 ---
 title: WIMA GmbH & Co. KG
 description: WIMA GmbH & Co. KG is a German manufacturer specializing in film capacitors and other passive electronic components, serving industrial, automotive, medical, and lighting sectors since 1948.
-date: 2025-09-25 15:54:00
+date: 2025-09-25T15:54:00+08:00
 ---
 
 ## Website

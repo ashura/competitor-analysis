@@ -1,7 +1,7 @@
 ---
 title: Boarke Machine Co., Ltd.
 description: Boarke Machine Co., Ltd. is a leading Taiwanese manufacturer specializing in advanced woodworking CNC machines and related equipment, offering innovative solutions to enhance efficiency and quality in woodworking operations worldwide.
-date: 2025-10-20 10:34:00
+date: 2025-10-20T10:34:00+08:00
 ---
 
 ## Website

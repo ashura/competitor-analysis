@@ -1,7 +1,7 @@
 ---
 title: AUTOGRIP MACHINERY CO., LTD.
 description: AUTOGRIP MACHINERY CO., LTD. is a leading Taiwanese manufacturer specializing in high-precision lathe machine chucks and clamping solutions, offering a wide range of products and tailored OEM/ODM services for the global machine tool industry.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

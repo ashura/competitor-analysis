@@ -1,7 +1,7 @@
 ---
 title: Torque-Tech Precision Co., Ltd
 description: Torque-Tech Precision Co., Ltd is a leading Taiwan-based manufacturer specializing in manual torque wrenches and torque tools, recognized for exceptional product quality, global OEM/ODM services, and technological innovation.
-date: 2025-09-24 14:34:00
+date: 2025-09-24T14:34:00+08:00
 ---
 
 ## Website

@@ -1,7 +1,7 @@
 ---
 title: Sansho Kogyo Co., Ltd.
 description: Sansho Kogyo Co., Ltd. specializes in the integrated manufacturing and sales of industrial rubber products, including O-rings, oil seals, and various rubber packings, serving the automotive sector, industrial machinery, and general industry.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

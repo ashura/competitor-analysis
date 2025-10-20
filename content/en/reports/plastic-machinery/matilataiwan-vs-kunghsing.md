@@ -1,7 +1,7 @@
 ---
 title: Matila vs. Kung Hsing
 description: A comparative report on Matila Industrial Co., Ltd. and KUNG HSING PLASTIC MACHINERY CO., LTD., two prominent Taiwanese companies in the plastic machinery industry.
-date: 2025-10-15 16:49:00
+date: 2025-10-15T16:49:00+08:00
 ---
 
 ## Website

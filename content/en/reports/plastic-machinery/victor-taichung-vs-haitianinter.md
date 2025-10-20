@@ -1,7 +1,7 @@
 ---
 title: Victor Taichung vs. Haitian International
 description: A detailed comparison between Victor Taichung Machinery Works Co., Ltd. and Haitian International, two leading injection molding machine manufacturers in Asia.
-date: 2025-10-03 08:57:00
+date: 2025-10-03T08:57:00+08:00
 ---
 
 **Websites:**

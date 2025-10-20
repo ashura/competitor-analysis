@@ -2,7 +2,7 @@
 linkTitle: www.puricom.com
 title: Puricom Water Industrial Corporation
 description: Puricom Water Industrial Corporation is a leading Taiwanese manufacturer specializing in water purification systems and products, with a global presence and a strong commitment to quality, innovation, and environmental responsibility.
-date: 2025-09-24 16:04:00
+date: 2025-09-24T16:04:00+08:00
 ---
 
 ## Website

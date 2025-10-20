@@ -1,7 +1,7 @@
 ---
 title: TCI CO., LTD.
 description: TCI CO., LTD. is a global leader in private label supplements and beauty CDMO+ services, specializing in the development and manufacturing of functional health foods and skincare products with a strong commitment to sustainability and scientific innovation.
-date: 2025-09-25 15:33:00
+date: 2025-09-25T15:33:00+08:00
 ---
 
 ## Website

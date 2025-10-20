@@ -1,7 +1,7 @@
 ---
 title: Eurasia United Equipment Group Co., Ltd
 description: Eurasia United Equipment Group Co., Ltd is a leading manufacturer specializing in fully automatic molded pulp equipment technology for producing eco-friendly tableware and packaging solutions. With numerous international patents and a pioneering spirit in sustainable manufacturing, the company delivers advanced plant fiber molding equipment and end-to-end solutions for environmental challenges.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

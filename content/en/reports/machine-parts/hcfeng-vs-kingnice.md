@@ -1,7 +1,7 @@
 ---
 title: HC FENG vs. KingNice Technology
 description: A comparative report on HC FENG and KingNice Technology, two leading Taiwanese companies specializing in CNC machine tool coolant filtration and purification systems.
-date: 2025-10-15 16:45:00
+date: 2025-10-15T16:45:00+08:00
 ---
 
 ## Website

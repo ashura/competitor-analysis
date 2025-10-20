@@ -2,7 +2,7 @@
 linkTitle: injection-molding.victortaichung.com
 title: Victor Taichung Machinery Works Co., Ltd.
 description: Victor Taichung Machinery Works Co., Ltd. is a leading manufacturer specializing in smart, energy-efficient injection molding machines and green manufacturing solutions for a wide range of industries, supporting global customers with advanced Industry 4.0 technologies and commitment to sustainability.
-date: 2025-10-17 16:34:00
+date: 2025-10-17T16:34:00+08:00
 ---
 
 ## Website

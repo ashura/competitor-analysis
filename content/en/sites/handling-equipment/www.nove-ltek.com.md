@@ -1,7 +1,7 @@
 ---
 title: Noveltek Industrial Manufacturing Inc.
 description: Noveltek Industrial Manufacturing Inc. is a leading manufacturer of electric and manual material handling equipment in Taiwan, providing various lifting and logistics solutions such as electric forklifts, pallet trucks, stackers, and customized products for warehousing and transportation needs.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

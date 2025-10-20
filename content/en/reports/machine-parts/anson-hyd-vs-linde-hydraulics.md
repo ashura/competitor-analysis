@@ -1,7 +1,7 @@
 ---
 title: Anson Hydraulics vs. LHY Powertrain
 description: A comparative analysis of Anson Hydraulics and LHY Powertrain in the hydraulic systems manufacturing sector.
-date: 2025-10-17 16:20:00
+date: 2025-10-17T16:20:00+08:00
 ---
 
 ## Website

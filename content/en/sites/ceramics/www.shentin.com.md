@@ -1,7 +1,7 @@
 ---
 title: Shen Ding Industrial Co., Ltd.
 description: Shen Ding Industrial Co., Ltd. is a leading manufacturer specializing in precision ceramics and advanced ceramic parts processing, offering high-quality solutions for panel, semiconductor, optoelectronics, automation, and medical industries since 1987.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

@@ -1,7 +1,7 @@
 ---
 title: Earth-Chain Enterprise Co., LTD.
 description: Earth-Chain Enterprise Co., LTD. is a Taiwan-based manufacturer specializing in CNC magnetic workholding tools since 1988, providing innovative and certified solutions for automated production, precision grinding, and industrial lifting applications worldwide.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

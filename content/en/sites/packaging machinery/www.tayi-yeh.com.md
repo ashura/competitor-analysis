@@ -1,7 +1,7 @@
 ---
 title: TAYI YEH MACHINERY CO., LTD
 description: TAYI YEH MACHINERY CO., LTD is a professional manufacturer of shrink wrapping and packaging machines, offering innovative solutions for a wide range of industries worldwide.
-date: 2025-10-16 17:00:00
+date: 2025-10-16T17:00:00+08:00
 ---
 
 ## Website

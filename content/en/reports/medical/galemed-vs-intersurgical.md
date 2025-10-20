@@ -1,7 +1,7 @@
 ---
 title: GaleMed vs. Intersurgical
 description: A comparative analysis of GaleMed Corporation and Intersurgical Ltd, two leading companies in the medical device industry specializing in respiratory and anesthesia products.
-date: 2025-10-15 16:54:00
+date: 2025-10-15T16:54:00+08:00
 ---
 
 **Websites:**

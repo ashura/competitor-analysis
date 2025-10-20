@@ -1,7 +1,7 @@
 ---
 title: Koshin vs. Eurasia United Equipment
 description: A comparative analysis of Koshin Environmental Protection Co., Ltd. and Eurasia United Equipment Group Co., Ltd., two leading companies in the sustainable molded pulp packaging and pulp molding equipment industry, highlighting their products, certifications, key features, and market focus.
-date: 2025-10-16 16:41:00
+date: 2025-10-16T16:41:00+08:00
 ---
 
 **Websites**
