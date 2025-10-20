@@ -17,7 +17,6 @@ frontmatter:
 module:
   imports:
     - path: github.com/imfing/hextra
-# theme: hextra
 
 outputs:
   home: [HTML, llms]
@@ -43,10 +42,10 @@ languages:
     languageName: English
     contentDir: content/en
     weight: 1
-  zh-tw:
-    languageName: 繁體中文
-    contentDir: content/zh-tw
-    weight: 2
+  # zh-tw:
+  #   languageName: 繁體中文
+  #   contentDir: content/zh-tw
+  #   weight: 2
 
 menu:
   main:
@@ -83,12 +82,6 @@ params:
   displayUpdatedDate: true
   dateFormat: "2006-01-02 15:04"
   externalLinkDecoration: true
-
-  analytics:
-    umami:
-      serverURL: "https://uma.oc4.gtmc.cc"
-      websiteID: "240d8883-94e7-4035-bfe9-e374767bee47"
-      scriptName: "script.js"
 
   search:
     enable: true

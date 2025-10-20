@@ -1,0 +1,13 @@
+baseURL: https://competitors.ashura.dev/
+
+caches:
+  images:
+    dir: :cacheDir/images
+
+params:
+  analytics:
+    umami:
+      serverURL: "https://uma.oc4.gtmc.cc"
+      websiteID: "240d8883-94e7-4035-bfe9-e374767bee47"
+      scriptName: "script.js"
+
