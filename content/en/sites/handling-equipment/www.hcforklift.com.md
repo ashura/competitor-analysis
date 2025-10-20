@@ -1,6 +1,7 @@
 ---
 title: Hangcha Group
 description: Hangcha Group, founded in 1956 and headquartered in Hangzhou, China, is a leading global manufacturer of material handling equipment, offering an extensive range of forklifts and smart logistics solutions to customers in over 150 countries.
+date: 2025-10-03 15:12:00
 ---
 
 ## Website

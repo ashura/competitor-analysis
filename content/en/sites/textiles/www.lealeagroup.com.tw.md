@@ -1,6 +1,7 @@
 ---
 title: LEALEA Group
 description: LEALEA Group is a diversified Taiwanese conglomerate founded in 1975, specializing in industries such as synthetic fibers, textiles, trade, construction, environmental engineering, leisure, and technology. With core values of diligence, integrity, innovation, and proactivity, LEALEA Group is committed to sustainable business development and social responsibility.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

@@ -1,6 +1,7 @@
 ---
 title: BOBA CHiC Taiwan
 description: BOBA CHiC Taiwan is a renowned bubble tea brand that offers premium instant boba packs, ready-to-drink beverages, and creative boba-inspired foods. The company combines traditional Taiwanese tea culture with modern innovation, using sustainable ingredients to serve bubble tea enthusiasts globally. BOBA CHiC also provides retail distribution, brand licensing, and OEM/ODM customization services for international partners.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

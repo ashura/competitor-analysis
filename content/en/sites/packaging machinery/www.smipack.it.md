@@ -1,6 +1,7 @@
 ---
 title: SMIPACK S.p.A.
 description: SMIPACK S.p.A. is a leading Italian manufacturer specializing in the design, production, and marketing of packaging machines, particularly those using heat shrink film. Established in 1997 and part of the SMI Group, the company provides a wide range of packaging solutions for multiple industries.
+date: 2025-09-25 15:59:00
 ---
 
 ## Website

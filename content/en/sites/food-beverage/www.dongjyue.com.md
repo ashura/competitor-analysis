@@ -1,6 +1,7 @@
 ---
 title: Dong Jyue Enterprise Co. Ltd
 description: Dong Jyue Enterprise Co. Ltd is a leading tea supplier from Taiwan, specializing in customized tea blends, bubble tea ingredients, and OEM/ODM services. With over 40 years of industry experience, Dong Jyue offers a wide range of high-quality tea products for global partners, including commercial and premium tea bags, loose teas, powders, syrups, and toppings. The company is renowned for its global tea garden partnerships, innovative flavor customization, and commitment to quality and sustainability.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

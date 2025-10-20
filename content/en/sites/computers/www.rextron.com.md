@@ -1,6 +1,7 @@
 ---
 title: Rextron International Inc.
 description: Rextron International Inc. is a leading provider of audio/video switching, KVM, and AV management solutions, delivering advanced products for seamless control, extension, and management of signals in various IT and AV environments.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

@@ -1,6 +1,7 @@
 ---
 title: Orris Drive Incorporated
 description: Orris Drive Incorporated is a specialist in custom worm gears and gear manufacturing, offering OEM and ODM solutions for diverse industry applications, with a focus on quality and flexible service.
+date: 2025-09-25 17:46:00
 ---
 
 ## Website

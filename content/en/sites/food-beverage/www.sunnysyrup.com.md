@@ -1,8 +1,7 @@
 ---
-linkTitle: www.sunnysyrup.com
 title: Sunnysyrup Food Co, Ltd.
 description: Sunnysyrup Food Co, Ltd. is a Taiwan-based manufacturer and supplier specializing in bubble tea ingredients and equipment, offering a wide range of products and OEM/ODM solutions for global beverage businesses.
-category: Food
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

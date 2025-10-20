@@ -1,8 +1,7 @@
 ---
-linkTitle: www.tachungho.com
 title: Tachungho International Co., Ltd.
 description: Tachungho International Co., Ltd. (formerly Chen En Foods) is a Taiwan-based leading supplier of bubble tea ingredients and solutions, offering one-stop wholesale services, startup training, and consulting for bubble tea businesses worldwide.
-category: Food
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

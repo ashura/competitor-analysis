@@ -2,6 +2,7 @@
 linkTitle: www.ychuan.com.tw
 title: Yeon Chuan Machinery Co., Ltd.
 description: Yeon Chuan Machinery Co., Ltd. is a Taiwan-based manufacturer specializing in woodworking machinery, with over 30 years of experience, strong R&D capabilities, and a global customer base across five continents.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

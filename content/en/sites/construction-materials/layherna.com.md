@@ -1,6 +1,7 @@
 ---
 title: Layher North America
 description: Layher North America is a leading manufacturer and innovator of modular scaffolding systems, providing high-quality, versatile, and safety-focused solutions for construction, industrial, petrochemical, energy, and manufacturing sectors across North America.
+date: 2025-09-25 14:31:00
 ---
 
 ## Website

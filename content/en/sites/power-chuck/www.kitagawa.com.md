@@ -1,6 +1,7 @@
 ---
 title: Kitagawa Corporation
 description: Kitagawa Corporation is a leading Japanese manufacturer specializing in workholding solutions, power chucks, rotary tables, and various machine tool accessories, with a strong global network and technological expertise developed since 1918.
+date: 2025-09-25 14:14:00
 ---
 
 ## Website

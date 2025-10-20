@@ -1,6 +1,7 @@
 ---
 title: Tokyo Weld Co., Ltd.
 description: Tokyo Weld Co., Ltd. is a Japanese company specializing in the design, manufacture, and sale of manufacturing equipment for electronic components, including taping machines, coating systems, and inspection equipment. Founded in 1971 with a vision to become a global leader, Tokyo Weld has built a reputation for quality and innovation in electronic parts automation.
+date: 2025-09-25 14:34:00
 ---
 
 ## Website

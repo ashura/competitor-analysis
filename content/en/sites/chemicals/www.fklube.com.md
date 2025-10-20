@@ -1,6 +1,7 @@
 ---
 title: FK Lubricants
 description: FK Lubricants is dedicated to integrity, innovation, and superior quality, offering a wide range of lubricants for motorcycles, cars, trucks, industrial, and marine machinery.
+date: 2025-09-25 15:26:00
 ---
 
 ## Website

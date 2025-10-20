@@ -1,6 +1,7 @@
 ---
 title: Koshin Environmental Protection Co., Ltd.
 description: Koshin Environmental Protection Co., Ltd. specializes in eco-friendly molded pulp packaging solutions, offering customizable, sustainable packaging for industries such as electronics, food, medical, and industrial products. Established in 2004 and based in Taichung, Taiwan, the company is dedicated to innovative, biodegradable, and recyclable packaging that supports a circular economy and reduces environmental impact.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

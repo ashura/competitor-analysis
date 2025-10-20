@@ -1,6 +1,7 @@
 ---
 title: Techniks Inc.
 description: Techniks Inc. is a leading manufacturer and supplier of high-quality CNC tooling solutions, including toolholding, magnetic solutions, and router tooling, serving manufacturers across North America since 1997. Based in Indianapolis, Indiana, the company focuses on providing innovative, productivity-enhancing products for the metalworking industry.
+date: 2025-09-25 14:22:00
 ---
 
 ## Website

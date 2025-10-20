@@ -1,6 +1,7 @@
 ---
 title: TAILIFT MATERIAL HANDLING TAIWAN CO., LTD.
 description: TAILIFT MATERIAL HANDLING TAIWAN CO., LTD. is a leading manufacturer and supplier of forklift trucks and material handling equipment, offering innovative solutions and a wide range of products including internal combustion, electric, and lithium-ion forklifts. Established in 1973 and part of Toyota Industries Group since 2015, the company delivers quality and reliability for a global market.
+date: 2025-09-25 17:06:00
 ---
 
 ## Website

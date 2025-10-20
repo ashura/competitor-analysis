@@ -1,6 +1,7 @@
 ---
 title: "DETZO CO., LTD"
 description: "DETZO CO., LTD is a leading Taiwanese manufacturer specializing in automatic coil winding machines and turnkey production solutions. The company provides an extensive portfolio of equipment, including multi-spindle coil winding machines, pin insertion machines, soldering machines, motor stator winding machines, and customized assembly lines. Serving industries such as transformers, inductors, BLDC motors, automotive electronics, relays, solenoids, and more, DETZO offers comprehensive automation technologies and tailored production lines to meet diverse electronic and component manufacturing needs."
+date: 2025-09-25 15:06:00
 ---
 
 ## Website

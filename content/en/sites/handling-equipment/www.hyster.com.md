@@ -1,6 +1,7 @@
 ---
 title: Hyster
 description: Hyster is a leading global designer and manufacturer of forklifts, lift trucks, and material handling equipment, serving industries worldwide with reliable, innovative solutions since 1929.
+date: 2025-09-25 17:19:00
 ---
 
 ## Website

@@ -1,6 +1,7 @@
 ---
 title: Microwave Products Group
 description: Microwave Products Group (MPG) is a global leader specializing in mission-critical electronic components and subsystems for the defense, aerospace, telecommunications, and industrial markets. MPG unites seven industry-leading brands to deliver advanced solutions in RF and microwave filters, switches, subsystems, and interference mitigation systems.
+date: 2025-09-25 12:23:00
 ---
 
 ## Website

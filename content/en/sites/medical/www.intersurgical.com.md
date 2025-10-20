@@ -1,6 +1,7 @@
 ---
 title: Intersurgical Ltd
 description: Intersurgical Ltd is a leading global manufacturer and supplier of high-quality medical devices for respiratory care, offering innovative solutions for airway management, anaesthesia, critical care, and oxygen & aerosol therapy across hospital and home care settings.
+date: 2025-09-25 16:36:00
 ---
 
 ## Website

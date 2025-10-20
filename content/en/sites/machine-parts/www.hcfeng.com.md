@@ -1,6 +1,7 @@
 ---
 title: HC FENG CO., LTD.
 description: HC FENG CO., LTD. specializes in innovative coolant filtration systems for CNC machine tools, offering solutions for wastewater treatment, cost reduction, and environmental sustainability. With a diverse product portfolio including automatic coolant refill systems, magnetic filters, oil skimmers, and chip sludge removal machines, the company helps manufacturers optimize cutting fluid management and achieve green, ESG-driven operations.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

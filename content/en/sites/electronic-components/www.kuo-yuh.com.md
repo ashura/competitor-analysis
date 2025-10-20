@@ -1,6 +1,7 @@
 ---
 title: KUOYUH W.L. Enterprise Co., Ltd.
 description: KUOYUH W.L. Enterprise Co., Ltd. is a leading Taiwanese manufacturer founded in 1991, specializing in the engineering, development, production, and sales of thermal circuit breakers and related circuit protection products for global markets.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

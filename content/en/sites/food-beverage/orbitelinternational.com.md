@@ -1,6 +1,7 @@
 ---
 title: ORBITEL INTERNATIONAL
 description: ORBITEL INTERNATIONAL specializes in innovative instant boba, bubble tea kits, tapioca pearls, popping boba, plant-based savory food items, and ready-to-drink beverages, delivering unique Asian-inspired food solutions to a global market.
+date: 2025-09-25 15:03:00
 ---
 
 ## Website

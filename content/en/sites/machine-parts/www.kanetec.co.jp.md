@@ -1,6 +1,7 @@
 ---
 title: "KANETEC CO.,LTD."
 description: "KANETEC CO.,LTD. is a leading Japanese manufacturer specializing in the development and sale of magnet application equipment, with headquarters in Nagano and a strong domestic and international sales network."
+date: 2025-09-25 15:16:00
 ---
 
 ## Website

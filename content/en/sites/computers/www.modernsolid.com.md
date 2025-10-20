@@ -2,6 +2,7 @@
 linkTitle: www.modernsolid.com
 title: Modernsolid Industrial Co., Ltd.
 description: Modernsolid Industrial Co., Ltd. is a Taiwanese company specializing in ergonomic mounting solutions for LCD monitors, notebooks, large flat panel displays, TVs, and projectors. With a foundation since 1989, the company focuses on designing and manufacturing products for office, healthcare, education, and industrial sectors, emphasizing innovation and quality.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

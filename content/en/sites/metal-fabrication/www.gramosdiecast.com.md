@@ -1,6 +1,7 @@
 ---
 title: GRAMOS Die Casting Industrial Co., Ltd.
 description: GRAMOS Die Casting Industrial Co., Ltd. specializes in custom aluminum and zinc alloy die casting services, delivering high-quality, precision-engineered industrial components tailored to client needs with advanced technology and integrated production systems.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

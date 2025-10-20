@@ -1,6 +1,7 @@
 ---
 title: High Tea│PEI CHEN CORP.
 description: High Tea│PEI CHEN CORP. is a leading tea ingredient manufacturer and supplier based in Taiwan, offering a wide range of tea leaves, powders, toppings, and customized OEM services for beverage and food industries worldwide.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

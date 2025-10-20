@@ -1,6 +1,7 @@
 ---
 title: Ann Way Machine Tools Co., Ltd.
 description: Ann Way Machine Tools Co., Ltd. is a Taiwan-based manufacturer specializing in high-quality CNC cutting tools and tool holders, offering a wide range of precision tooling solutions for the machining industry since 1979.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

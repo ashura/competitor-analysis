@@ -1,6 +1,7 @@
 ---
 title: CRYSTAL TECH
 description: CRYSTAL TECH is a precision ceramic producer established in 1991, specializing in research, innovation, and customer-oriented development for fluid handling, semiconductor, and insulating components industries.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

@@ -1,6 +1,7 @@
 ---
 title: ALLWIN FOOD CO., LTD.
 description: ALLWIN FOOD CO., LTD. is a Taiwan-based manufacturer specializing in customized food and beverage powders, supplying global markets with products like milk tea powder, milk foam powder, and premix baking solutions. With over 20 years of industry experience, the company emphasizes innovation, strict quality control, and holds certifications including FSSC 22000, ISO 22000, and HACCP.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

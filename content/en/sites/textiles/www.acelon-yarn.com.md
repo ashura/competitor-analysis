@@ -1,6 +1,7 @@
 ---
 title: Acelon Chemicals & Fiber Corporation
 description: Acelon Chemicals & Fiber Corporation is a Taiwan-based manufacturer specializing in various types of industrial yarns, including eco-friendly and functional fibers for the textile industry.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

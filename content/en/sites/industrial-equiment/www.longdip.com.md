@@ -1,6 +1,7 @@
 ---
 title: LONG Automatic Machinery Co., Ltd.
 description: LONG Automatic Machinery Co., Ltd. is a recognized supplier of dipping equipment for the electric semiconductors industry, specializing in terminal dipping, slant dipping, and array dipping machines since 1988. The company is based in Taichung City, Taiwan, and focuses on providing high value-added automatic equipment and total solutions for chip coating processes.
+date: 2025-09-25 14:38:00
 ---
 
 ## Website

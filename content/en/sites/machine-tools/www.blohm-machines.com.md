@@ -1,6 +1,7 @@
 ---
 title: Blohm Jung GmbH
 description: Blohm Jung GmbH is a manufacturer specializing in surface and profile grinding machines, recognized globally for innovation, precision, and productivity in industrial grinding solutions. As part of the UNITED GRINDING Group, the company serves diverse industries including automotive, aerospace, and general engineering.
+date: 2025-10-20 10:36:00
 ---
 
 ## Website

@@ -1,6 +1,7 @@
 ---
 title: SCM Group
 description: SCM Group is a leading global manufacturer of machinery, systems, and industrial components for processing wood, plastic, glass, stone, metal, and composites, supporting industries in furniture, construction, automotive, aerospace, shipbuilding, and beyond.
+date: 2025-10-20 10:34:00
 ---
 
 ## Website

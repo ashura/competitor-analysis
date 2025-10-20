@@ -1,6 +1,7 @@
 ---
 title: Leader Automation Co., Ltd.
 description: Leader Automation Co., Ltd. is a Taiwan-based pioneer in robotic automation solutions, specializing in automated coffee shops, boba machines, and customized robotic systems for commercial spaces. With over 30 years of experience, the company delivers innovative unmanned operation technology, AI-driven products, and backend cloud management to optimize service quality and operational efficiency across airports, shopping malls, gyms, hotels, and more.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

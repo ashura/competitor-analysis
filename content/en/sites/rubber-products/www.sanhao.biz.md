@@ -1,6 +1,7 @@
 ---
 title: Sanhao Rubber Co., Ltd.
 description: Sanhao Rubber Co., Ltd. is a manufacturer specializing in OEM and custom solutions for rubber, silicone, and plastic parts, offering one-stop services from design through production and packaging for a wide range of industries.
+date: 2025-09-25 14:39:00
 ---
 
 ## Website

@@ -1,6 +1,7 @@
 ---
 title: GLOSO TECH Inc.
 description: GLOSO TECH Inc. is a leading manufacturer specializing in switches and circuit protection products, certified to IATF16949 and ISO9001 standards, serving low-voltage and overload voltage applications with over 30 years of experience.
+date: 2025-09-25 15:23:00
 ---
 
 ## Website

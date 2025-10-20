@@ -1,6 +1,7 @@
 ---
 title: Ji-Horng Plastic Co., Ltd.
 description: Ji-Horng Plastic Co., Ltd. is a professional manufacturer based in central Taiwan specializing in the production of various types of plastic buckles and components, offering comprehensive OEM and ODM injection molding services for both standard and customized products.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

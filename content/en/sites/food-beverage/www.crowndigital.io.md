@@ -1,6 +1,7 @@
 ---
 title: Crown Digital
 description: Crown Digital is a Singapore-based technology innovator integrating robotics and AI into the food and beverage industry. Best known for Ella, the robot barista, Crown Digital delivers contactless, efficient, and personalized coffee experiences using generative AI and precision robotics. The company aims to revolutionize food service globally and has achieved notable milestones, including deployments in hospitals, airports, and major events across Asia.
+date: 2025-09-25 17:41:00
 ---
 
 ## Website

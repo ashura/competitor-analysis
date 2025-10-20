@@ -1,6 +1,7 @@
 ---
 title: Anqing Yijia Environmental Technology Co.,Ltd.
 description: Anqing Yijia Environmental Technology Co.,Ltd. is a leading manufacturer focused on environmentally friendly packaging products, including kraft ripple cups, takeaway cup sleeves, paper lids, PET cups, and other disposable tableware. Founded in 2014 and based in Anqing, China, the company is committed to innovation, sustainability, and high-quality standards, serving global clients with certified eco-friendly solutions.
+date: 2025-09-25 17:04:00
 ---
 
 ## Website

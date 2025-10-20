@@ -5,7 +5,7 @@
 {{ $dateFormat := site.Params.dateFormat | default "2006-01-02 15:04" }}
 
 {{ $pages := where site.RegularPages "Section" $section }}
-{{ $latestPages := first $limit ($pages.ByLastmod.Reverse) }}
+{{ $latestPages := first $limit (sort $pages ".Date" "desc") }}
 
 {{ if $latestPages }}
 {{ $cardsContent := "" }}

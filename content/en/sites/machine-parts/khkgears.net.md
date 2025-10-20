@@ -1,6 +1,7 @@
 ---
 title: Kohara Gear Industry Co.,Ltd.
 description: Kohara Gear Industry Co.,Ltd. is a leading Japanese manufacturer specializing in the production of various high-quality gears since 1935, with a reputation for precision and innovation.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

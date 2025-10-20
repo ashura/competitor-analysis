@@ -1,6 +1,7 @@
 ---
 title: SPAX International
 description: SPAX International is a leading German manufacturer of innovative fastening technology, renowned for producing high-quality screws and fasteners for construction and industrial use. With a heritage connected to Germany’s oldest screw manufacturer, the company operates globally and is part of the Altenloh, Brinck & Co. Group.
+date: 2025-09-25 16:04:00
 ---
 
 ## Website

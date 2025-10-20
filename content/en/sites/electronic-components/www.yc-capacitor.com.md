@@ -1,6 +1,7 @@
 ---
 title: Yuhchang Electric Co., Ltd.
 description: Established in 1967, Yuhchang Electric Co., Ltd. is a leading manufacturer in Taiwan specializing in industrial and electronic power capacitors, offering a wide range of products including high voltage, low voltage, surge absorbing, and energy storage capacitors for optimal performance and reliability.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

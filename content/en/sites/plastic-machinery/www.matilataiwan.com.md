@@ -1,6 +1,7 @@
 ---
 title: Matila Industrial Co., Ltd.
 description: Matila Industrial Co., Ltd. is a leading Taiwan-based manufacturer specializing in plastic machinery, including blown film machines, plastic recycling equipment, twin screw extruders, bag-making machines, and flexographic printing presses, serving global clients with over 30 years of experience.
+date: 2025-10-16 17:00:00
 ---
 
 ## Website

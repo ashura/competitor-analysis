@@ -2,6 +2,7 @@
 linkTitle: www.ergotron.com
 title: Ergotron
 description: Ergotron is a global leader in ergonomic solutions, specializing in adjustable digital display mounts, workstations, standing desks, and workspace furniture designed to enhance productivity, health, and comfort in office, healthcare, and education environments.
+date: 2025-09-24 15:31:00
 ---
 
 ## Website

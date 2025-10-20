@@ -1,6 +1,7 @@
 ---
 title: COMORK Precise Machinery Co., Ltd.
 description: COMORK Precise Machinery Co., Ltd. is a leading CNC grinding machine manufacturer from Taiwan, specializing in the production of CNC cylindrical grinders for both inner and outer diameter applications. With over 20 years of precision grinding technology experience, COMORK provides innovative hybrid grinding solutions for enhanced efficiency and cost-effectiveness.
+date: 2025-10-20 10:37:00
 ---
 
 ## Website
