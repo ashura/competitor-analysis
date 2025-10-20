@@ -1,0 +1,6 @@
+{
+    "github.copilot.chat.languageContext.typescript.enabled": false,
+    "github.copilot.chat.commitMessageGeneration.instructions": [
+        { "text": "Commit in English." }
+    ]
+}

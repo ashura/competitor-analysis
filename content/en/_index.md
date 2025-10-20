@@ -1,5 +1,6 @@
 ---
 title: "Ashura's Competitor Analysis"
+description: "A curated collection of site profiles and reports for competitor analysis."
 toc: false
 ---
 
