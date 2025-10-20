@@ -1,7 +1,7 @@
 ---
 title: MIN JUNG HONG INC.
 description: MIN JUNG HONG INC., established in 1993, specializes in producing customized Max-Lube lubricant oils, offering OEM, ODM, and OBM services, and collaborating with world-renowned additive suppliers to meet diverse lubrication needs.
-date: date: 2025-10-16 17:00:00
+date: 2025-10-16 17:00:00
 ---
 
 ## Website
