@@ -10,7 +10,7 @@ date: 2025-10-21T17:05:00+08:00
 
 ## Basic Information
 
-Acelon Chemicals & Fiber Corporation (聚隆纖維股份有限公司) was established in 1988 by a group of partners passionate about the textile industry. The company is recognized as a reliable partner in the production of various yarns for the textile sector, including commodities, functional, eco-friendly, and bi-component yarns. Acelon has capabilities in several advanced yarn processes, such as POY (Partially Oriented Yarn), FDY (Fully Drawn Yarn), DTY (Draw Textured Yarn), and ATY (Air Textured Yarn). The company's product line features pre-consumer recycled Nylon6, recycled PET dope dyed color yarn, and polypropylene dope dyed yarns—all designed to reduce environmental impact. Acelon actively participates in global textile exhibitions, showcasing innovation in sustainability, flexibility, and functionality in yarn manufacturing.
+Acelon Chemicals & Fiber Corporation was established in 1988 by a group of partners passionate about the textile industry. The company is recognized as a reliable partner in the production of various yarns for the textile sector, including commodities, functional, eco-friendly, and bi-component yarns. Acelon has capabilities in several advanced yarn processes, such as POY (Partially Oriented Yarn), FDY (Fully Drawn Yarn), DTY (Draw Textured Yarn), and ATY (Air Textured Yarn). The company's product line features pre-consumer recycled Nylon6, recycled PET dope dyed color yarn, and polypropylene dope dyed yarns—all designed to reduce environmental impact. Acelon actively participates in global textile exhibitions, showcasing innovation in sustainability, flexibility, and functionality in yarn manufacturing.
 (Source: https://www.acelon-yarn.com)
 
 ## Awards

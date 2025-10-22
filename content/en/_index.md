@@ -5,12 +5,12 @@ toc: false
 ---
 
 ## Latest Reports
-{{< latest-content section="reports" limit="18" type="blog" >}}
+{{< latest-content section="reports" limit="24" type="blog" >}}
 
 [View all reports →](/reports/)
 
 ## Latest Site Profiles
-{{< latest-content section="sites" limit="18" type="docs" >}}
+{{< latest-content section="sites" limit="24" type="docs" >}}
 
 [Browse all site profiles →](/sites/)
 
