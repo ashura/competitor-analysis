@@ -1,5 +1,6 @@
 ---
 title: Rubber Products
+description: Competitive intelligence reports related to the rubber products industry.
 categories: []
 cascade:
   type: docs

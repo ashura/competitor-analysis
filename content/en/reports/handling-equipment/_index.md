@@ -1,5 +1,6 @@
 ---
 title: Handling Equipment
+description: Competitive intelligence reports related to the handling equipment industry.
 categories: []
 cascade:
   type: docs

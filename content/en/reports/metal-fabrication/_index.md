@@ -1,5 +1,6 @@
 ---
 title: Metal Fabrication
+description: Competitive intelligence reports related to the metal fabrication industry.
 categories: []
 cascade:
   type: docs

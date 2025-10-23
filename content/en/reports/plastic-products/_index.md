@@ -1,5 +1,6 @@
 ---
 title: Plastic Products
+description: Competitive intelligence reports related to the plastic products industry.
 categories: []
 cascade:
   type: docs

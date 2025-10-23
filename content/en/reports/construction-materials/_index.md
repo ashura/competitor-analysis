@@ -1,5 +1,6 @@
 ---
 title: Construction Materials
+description: Competitive intelligence reports related to the construction materials industry.
 categories: []
 cascade:
   type: docs

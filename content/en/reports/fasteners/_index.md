@@ -1,5 +1,6 @@
 ---
 title: Fasteners
+description: Competitive intelligence reports related to the fasteners industry.
 categories: []
 cascade:
   type: docs

@@ -1,5 +1,6 @@
 ---
 title: Ceramics
+description: Competitive intelligence reports related to the ceramics industry.
 categories: []
 cascade:
   type: docs

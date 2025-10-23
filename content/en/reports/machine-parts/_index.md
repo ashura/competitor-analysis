@@ -1,5 +1,6 @@
 ---
 title: Machine Parts
+description: Competitive intelligence reports related to the machine parts industry.
 categories: []
 cascade:
   type: docs

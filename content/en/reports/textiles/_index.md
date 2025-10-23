@@ -1,5 +1,6 @@
 ---
 title: Textiles
+description: Competitive intelligence reports related to the textiles industry.
 categories: []
 cascade:
   type: docs

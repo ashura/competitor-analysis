@@ -1,5 +1,6 @@
 ---
 title: Computers
+description: Competitive intelligence reports related to the computers industry.
 categories: []
 cascade:
   type: docs

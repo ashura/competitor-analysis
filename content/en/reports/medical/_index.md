@@ -1,5 +1,6 @@
 ---
 title: Medical
+description: Competitive intelligence reports related to the medical industry.
 categories: []
 cascade:
   type: docs

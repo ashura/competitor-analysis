@@ -1,5 +1,6 @@
 ---
 title: Chemicals
+description: Competitive intelligence reports related to the chemicals industry.
 categories: []
 cascade:
   type: docs

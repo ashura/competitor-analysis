@@ -1,5 +1,6 @@
 ---
 title: Wood Machinery
+description: Competitive intelligence reports related to the wood machinery industry.
 categories: []
 cascade:
   type: docs

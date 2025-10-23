@@ -1,5 +1,6 @@
 ---
 title: Hand Tools
+description: Competitive intelligence reports related to the hand tools industry.
 categories: []
 cascade:
   type: docs

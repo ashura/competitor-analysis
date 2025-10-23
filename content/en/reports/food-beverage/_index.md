@@ -1,5 +1,6 @@
 ---
 title: Food and Beverage
+description: Competitive intelligence reports related to the food and beverage industry.
 categories: []
 cascade:
   type: docs

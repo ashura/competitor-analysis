@@ -1,5 +1,6 @@
 ---
 title: Consultant
+description: Competitive intelligence reports related to the consultant industry.
 categories: []
 cascade:
   type: docs

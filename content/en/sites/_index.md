@@ -1,5 +1,6 @@
 ---
 title: Site Profiles
+description: A comprehensive collection of website profiles across various industries.
 cascade:
   type: docs
 ---

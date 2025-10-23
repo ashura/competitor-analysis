@@ -1,5 +1,6 @@
 ---
 title: Office
+description: Competitive intelligence reports related to the office industry.
 categories: []
 cascade:
   type: docs

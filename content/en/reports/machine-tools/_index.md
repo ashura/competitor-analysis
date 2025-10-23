@@ -1,5 +1,6 @@
 ---
 title: Machine Tools
+description: Competitive intelligence reports related to the machine tools industry.
 categories: []
 cascade:
   type: docs

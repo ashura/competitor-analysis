@@ -1,5 +1,6 @@
 ---
 title: Electrical Products
+description: Competitive intelligence reports related to the electrical products industry.
 categories: []
 cascade:
   type: docs

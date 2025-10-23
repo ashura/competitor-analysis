@@ -1,5 +1,6 @@
 ---
 title: Transportation Logistics
+description: Competitive intelligence reports related to the transportation logistics industry.
 categories: []
 cascade:
   type: docs

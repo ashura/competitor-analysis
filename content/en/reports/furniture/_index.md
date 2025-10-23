@@ -1,5 +1,6 @@
 ---
 title: Furniture
+description: Competitive intelligence reports related to the furniture industry.
 categories: []
 cascade:
   type: docs

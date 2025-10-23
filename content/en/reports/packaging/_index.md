@@ -1,5 +1,6 @@
 ---
 title: Packaging
+description: Competitive intelligence reports related to the packaging industry.
 categories: []
 cascade:
   type: docs

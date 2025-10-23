@@ -1,5 +1,6 @@
 ---
 title: Electronic Components
+description: Competitive intelligence reports related to the electronic components industry.
 categories: []
 cascade:
   type: docs

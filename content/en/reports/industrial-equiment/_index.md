@@ -1,5 +1,6 @@
 ---
 title: Industrial Equipment
+description: Competitive intelligence reports related to the industrial equipment industry.
 categories: []
 cascade:
   type: docs
