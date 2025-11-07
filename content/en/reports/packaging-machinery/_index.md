@@ -6,6 +6,8 @@ categories: []
 cascade:
   type: docs
   categories: ["Packaging Machinery"]
+sidebar:
+  hide: true
 ---
 
 ## Latest Reports

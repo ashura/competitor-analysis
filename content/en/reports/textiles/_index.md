@@ -6,6 +6,8 @@ cascade:
   type: docs
   categories: ["Textiles"]
 image: https://wsrv.nl/?w=400&h=200&fit=cover&url=https://www.acelon-yarn.com/storage/media/banner/pbanner1.jpg
+sidebar:
+  hide: true
 ---
 
 ## Latest Reports

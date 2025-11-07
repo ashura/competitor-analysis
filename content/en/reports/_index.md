@@ -1,6 +1,8 @@
 ---
 title: Competitor Analysis Reports
 description: A collection of competitive intelligence reports across various industries.
+sidebar:
+  hide: true
 cascade:
   type: docs
 ---

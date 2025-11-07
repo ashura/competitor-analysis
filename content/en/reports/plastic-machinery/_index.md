@@ -6,6 +6,8 @@ categories: []
 cascade:
   type: docs
   categories: ["Plastic Machinery"]
+sidebar:
+  hide: true
 ---
 
 ## Latest Reports

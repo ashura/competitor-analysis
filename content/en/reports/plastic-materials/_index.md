@@ -6,6 +6,8 @@ categories: []
 cascade:
   type: docs
   categories: ["Plastic Materials"]
+sidebar:
+  hide: true
 ---
 
 ## Latest Reports
