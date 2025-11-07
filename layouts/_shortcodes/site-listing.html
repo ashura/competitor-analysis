@@ -1,7 +1,7 @@
 {{ $currentPage := .Page }}
 {{ $showDirs := .Get "dirs" | default "true" | eq "true" }}
 {{ $showFiles := .Get "files" | default "true" | eq "true" }}
-{{ $cols := .Get "cols" | default "2" }}
+{{ $cols := .Get "cols" | default "3" }}
 {{ $subDirs := slice }}
 {{ $subFiles := slice }}
 {{ $dateFormat := site.Params.dateFormat | default "2006-01-02 15:04" }}
