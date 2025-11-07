@@ -1,81 +1,90 @@
 ---
 title: Kohara Gear Industry Co.,Ltd.
-description: Kohara Gear Industry Co.,Ltd. is a leading Japanese manufacturer specializing in the production of various high-quality gears since 1935, with a reputation for precision and innovation.
-date: 2025-10-16T17:00:00+08:00
+description: Kohara Gear Industry Co.,Ltd. (KHK Gears) is a leading Japanese manufacturer specializing in stock gears, offering more than 30,000 types of gears in various materials, shapes, and pitches, with global sales networks and quick delivery from inventory.
+date: 2025-11-07T09:44:00+08:00
 ---
 
 ## Website
-- [https://khkgears.net](https://khkgears.net)
+
+[https://khkgears.net](https://khkgears.net)
 
 ## Basic Information
-Kohara Gear Industry Co.,Ltd., also known as KHK, was founded in 1935 and is headquartered in Kawaguchi, Saitama, Japan. The company is solely devoted to the manufacture of gears and is highly regarded for its KHK brand. KHK produces a wide range of products, including bevel, helical, internal, miter, plastic, spur, screw, and worm gears. The company rebuilt its headquarters and factory in 2005 to meet modern earthquake standards. With over 80 years of accumulated know-how, highly trained employees, and advanced production facilities, KHK provides both stock and custom gears for global industrial use. KHK also has an international presence through subsidiaries such as KHK USA.
 
-Sources:
-- [Company Profile](https://khkgears.net/about-us/company-profile/?no=0)
-- [KHK USA About](https://www.khkgears.us/about/)
-- [Metoree US Profile](https://us.metoree.com/companies/101314/)
+Kohara Gear Industry Co.,Ltd. (KHK Gears) is a prominent gear manufacturer headquartered at 13-17 Nakacho Kawaguchi-shi Saitama-ken, 332-0022, Japan. The company distinguishes itself by maintaining an extensive inventory of over 30,000 gear products, ready for immediate shipment, which allows them to offer fast delivery and cater to both custom and standard needs. Their product range encompasses spur gears, helical gears, gear racks, worm gears, bevel gears, miter gears, internal gears, screw gears, and more, with applications in robotics, machine tools, medical devices, and industrial automation. KHK Gears is committed to Japanese manufacturing quality standards, provides education materials on gear technology, and supports secondary operations and modifications according to customer specifications. The company has global sales networks including USA, UK, India, and Australia.
+[Source: https://khkgears.net]
 
 ## Awards
-No awards information found.
+
+No awards are listed in the official materials.
 
 ## Certifications
-Kohara Gear Industry Co.,Ltd. has acquired the following international standard certifications:
-- ISO9001 for quality management systems
-- ISO14001 for environmental management systems
 
-Source: [Company Profile](https://khkgears.net/about-us/company-profile/?no=0)
+Kohara Gear Industry Co.,Ltd. has acquired the international standard ISO9001 certification for quality management systems and ISO14001 certification for environmental management systems.
+[Source: https://khkgears.net/new/company-profile.html]
 
 ## Key Features
-Kohara Gear Industry Co.,Ltd. (KHK Gears) is a leading Japanese manufacturer specializing in stock gears. Key features and main capabilities include:
 
-- **Extensive Product Range:** Over 30,000 types of gears, including spur gears, helical gears, gear racks, worm gears, bevel gears, miter gears, screw gears, internal gears, plastic gears, and more, with various shapes, materials, and pitches to suit diverse applications.
-- **Immediate Availability:** As gears are kept in stock (excluding some series), orders can be shipped immediately, allowing quick delivery.
-- **No Minimum Order Quantity:** Customers can purchase gears in any quantity, including single units, at reasonable prices regardless of order size.
-- **Customization:** In addition to stock items, custom gears and modification services are available to accommodate specific requirements that cannot be met by standard products.
-- **Quality and Reliability:** All products are manufactured in Japan under strict quality control standards, ensuring consistent, high-quality output.
-- **Technical Support:** Extensive technical data is provided, including gear drawings in paper, 2D CAD, and 3D CAD formats, making design and integration straightforward for customers.
-- **Educational Resources:** KHK offers a wide range of learning materials and technical documentation to support proper gear selection and design, enhancing customer knowledge.
-- **Global Sales Network:** With sales networks in the USA, UK, India, Australia, and more, KHK Gears serves customers worldwide.
-
-(Source: [KHK Gears](https://khkgears.net))
-
-## Featured Products
-Kohara Gear Industry Co.,Ltd. (KHK Gears) offers a wealth of standard and stocked gear product categories to meet a wide range of machine design requirements. The main featured product categories include:
-
-1. **Spur Gears:** Available with module sizes from 0.5 to 10, in both hardened/non-hardened and ground/non-ground versions.
-2. **Helical Gears:** Module sizes 1–3, also available as hardened/non-hardened and ground/non-ground.
-3. **Gear Racks:** Module sizes 0.5–10, provided in hardened/non-hardened and ground/non-ground types for linear motion applications.
-4. **Miter Gears:** Module sizes 0.5–10, suitable for applications needing right-angle power transmission, available in both hardened/non-hardened and ground/non-ground forms.
-5. **Bevel Gears:** Module sizes 0.5–8, for intersecting shaft transmissions, offered as hardened/non-hardened and ground/non-ground.
-6. **Worm Gears:** Module sizes 0.5–6, designed for high reduction ratios, offered in both hardened/non-hardened and ground/non-ground options.
-
-These broad product lines cover the most commonly used gears in mechanical engineering and automatic machinery applications. For more specialized needs, KHK also provides custom gears.
-
-Source: [Product Categories](https://khkgears.net/new/product-category.html)
-
-## Marketing Focus
-Kohara Gear Industry Co.,Ltd. (KHK Gears) focuses on the manufacture and rapid supply of a wide variety of standardized stock gears. They emphasize having a large inventory, allowing for quick delivery and additional machining based on customer needs. Their marketing highlights include their technical expertise, established production systems, and state-of-the-art facilities designed to satisfy diverse customer requirements in various industries needing mechanical gears. Target audiences are likely industrial manufacturers, engineering firms, and machinery builders seeking reliable, high-quality, and immediately available gears.
-
-References:
-- [Company Profile](https://khkgears.net/about-us/company-profile/?no=0)
-- [KHK Gears](https://khkgears.net/new/)
-- [Gear Catalog](https://khkgears.net/new/gear_catalog.html)
-
-## Technical Strength
-Kohara Gear Industry Co.,Ltd. (KHK) is recognized as one of Japan’s leading stock gear manufacturers, specializing in high-precision gears. The company leverages advanced manufacturing technology and extensive know-how to offer both a comprehensive lineup of stock gears and the flexibility for custom gear production. A notable technical strength is their ability to maintain inventory for immediate delivery, distinguishing them from many competitors who manufacture gears only after receiving orders. Their expertise covers a wide range of gear types and applications, and they provide technical support tools such as free gear calculation and drafting software for optimal gear design. These factors contribute to their competitiveness in the global market for high-precision and custom gears.
+Kohara Gear Industry Co.,Ltd. (KHK Gears) is a leading manufacturer specializing in a wide variety of stock gears, offering production and distribution with a strength in maintaining inventory for quick delivery. Their capabilities include the manufacturing of spur gears, helical gears, bevel gears, miter gears, racks, and other specialized gears. KHK produces over 30,000 types of stock gears and provides comprehensive technical resources for designers, including detailed technical references and automated drawing tools for custom gears. They operate with state-of-the-art facilities, skilled employees, and accumulated technical know-how, ensuring stable and advanced gear production systems. KHK gears are used in various fields including industrial automation and robotics, with a focus on quality, rapid response, and providing design support.
 
 Sources:
-- [KHK Gears](https://khkgears.net/new/)
-- [Nichiden Vietnam](https://nichiden.com.vn/en/?portfolio=kohara-gear-industry-co-ltd)
-- [KHK USA](https://www.khkgears.us/)
+- https://khkgears.net/new/
+- https://khkgears.net/new/company-profile.html
+- https://khkgears.net/new/gear_catalog.html
+- https://khkgears.net/new/gear_knowledge/gear_technical_reference/gear_design.html
+
+## Featured Products
+
+Kohara Gear Industry Co.,Ltd. (KHK Gears) is a leading manufacturer specializing in a wide range of stock gears and custom gear solutions. Their feature products include:
+
+1. **Spur Gears:** Standard gears with straight teeth used for parallel shaft power transmission.
+   [Source: https://khkgears.net/new/spur_gears.html]
+2. **Bevel Gears:** Used for transmitting power between intersecting shafts, available as straight bevel, spiral bevel, and zerol bevel gears.
+   [Source: https://khkgears.net/new/bevel_gears.html, https://khkgears.net/new/zerol-bevel-gears.html]
+3. **Miter Gears:** A type of bevel gear with a 1:1 ratio for right angle shaft applications.
+   [Source: https://khkgears.net/new/miter_gears.html]
+4. **Worm Gears:** For large speed reduction ratios and self-locking features.
+   [Source: https://khkgears.net/new/worm_gear.html]
+5. **Gear Racks and Pinions:** Used to convert rotary motion into linear motion.
+   [Source: https://khkgears.net/new/gear_rack.html]
+6. **Comprehensive Gear Catalog:** Listing about 30,000 types of standard gears, along with custom manufacturing capabilities.
+   [Source: https://khkgears.net/new/gear_catalog.html]
+
+Their product range covers various materials and specifications such as different sizes, modules, and mechanical characteristics. KHK Gears serves diverse industries offering both immediate product selection from stock and tailored solutions for specialized applications.
+
+Sources:
+- https://khkgears.net/new/product-category.html
+- https://khkgears.net/new/spur_gears.html
+- https://khkgears.net/new/bevel_gears.html
+- https://khkgears.net/new/zerol-bevel-gears.html
+- https://khkgears.net/new/miter_gears.html
+- https://khkgears.net/new/worm_gear.html
+- https://khkgears.net/new/gear_rack.html
+- https://khkgears.net/new/gear_catalog.html
+
+## Marketing Focus
+
+Kohara Gear Industry Co.,Ltd. (KHK Gears) focuses on the manufacturing and supply of gears using the technical skills of highly trained employees, state-of-the-art facilities, and accumulated know-how. The company emphasizes the reliability and satisfaction of its customers, aiming to provide high-quality products at affordable prices through an extensive global sales network. Their marketing emphasizes swift and safe delivery, region-oriented service through strong partnerships with agents, international certification (ISO9001 and ISO14001), and a dedication to steady improvement and integrated management systems. Target audience mainly includes industrial customers worldwide seeking dependable, high-quality gears for various applications.
+(Source: https://khkgears.net/about-us/company-profile/)
+
+## Technical Strength
+
+Kohara Gear Industry Co.,Ltd. (KHK Gears) demonstrates technical strength through more than 80 years of dedicated gear manufacturing experience. Their strengths include highly trained employees, state-of-the-art manufacturing facilities, and extensive accumulated know-how in gear production. The company has established a robust production system capable of rapidly delivering high-quality products to customers worldwide. KHK Gears also possesses integrated management systems certified to ISO9001 (quality management) and ISO14001 (environmental management) standards, supporting continuous improvement and high product reliability. Through a global sales network and strong partnerships with regional agents, KHK ensures efficient customer service and product delivery.
+[Source: https://khkgears.net/new/company-profile.html]
 
 ## Environment / Society / Governance
-Kohara Gear Industry Co.,Ltd. (KHK Gears) has obtained ISO14001 certification for environmental management systems and ISO9001 for quality management systems. The company indicates it has implemented and continually improves an integrated management system to enhance performance and meet both environmental and quality standards. However, there are no additional details on specific ESG investments or broader achievements found on the official website.
 
-Source: [Company Profile](https://khkgears.net/about-us/company-profile/)
+Kohara Gear Industry Co.,Ltd. (KHK Gears) has obtained ISO9001 certification for its quality management systems and ISO14001 certification for its environmental management systems, demonstrating its efforts towards quality assurance and environmental responsibility. The company highlights a commitment to ongoing improvements of its integrated management system to strengthen performance and structure, in line with these international standards. No additional specific ESG investment or achievement details (e.g., sustainability targets, social responsibility initiatives, or governance frameworks beyond certification) are stated on their official company profile page.
+Source: https://khkgears.net/new/company-profile.html
 
-## Pricing Plans
-No pricing plans information found.
+## OEM / ODM / White Label Support
+
+Kohara Gear Industry Co.,Ltd. provides custom gear manufacturing, producing gears according to customer specifications and drawings under strict quality control. This aligns with OEM/ODM offerings, as they can modify stock gears or manufacture completely custom gears to meet client needs. However, there is no explicit mention of 'White Label' service.
+Source: https://khkgears.net/new/custom-gears.html
+
+## Pricing
+
+No pricing information is provided on the official website.
 
 ## Testimonials
-No testimonials information found.
+
+No testimonials are currently published on the official site.
