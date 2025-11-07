@@ -87,14 +87,17 @@
           </li>
         {{- else -}}
           {{- $active := eq $pageURL .RelPermalink -}}
-          {{- $shouldOpen := or (.Params.sidebar.open) (.IsAncestor $page) $active | default true }}
+          {{- $isCurrentSection := or $active (.IsAncestor $page) -}}
+          {{- $shouldOpen := and $isCurrentSection (.Params.sidebar.open | default true) -}}
           <li class="{{ if $shouldOpen }}open{{ end }}">
             {{- $linkTitle := partial "utils/title" . -}}
-            {{- template "sidebar-item-link" dict "context" . "active" $active "title" $linkTitle "link" .RelPermalink -}}
+            {{- template "sidebar-item-link" dict "context" . "active" $active "title" $linkTitle "link" .RelPermalink "showButton" $isCurrentSection -}}
             {{- if and $toc $active -}}
               {{- template "sidebar-toc" dict "page" . -}}
             {{- end -}}
-            {{- template "sidebar-tree" dict "context" . "page" $page "pageURL" $pageURL "level" (add $level 1) "toc" $toc -}}
+            {{- if $isCurrentSection -}}
+              {{- template "sidebar-tree" dict "context" . "page" $page "pageURL" $pageURL "level" (add $level 1) "toc" $toc -}}
+            {{- end -}}
           </li>
         {{- end -}}
       {{- end -}}
@@ -103,14 +106,17 @@
         <ul class='hx:relative hx:flex hx:flex-col hx:gap-1 hx:before:absolute hx:before:inset-y-1 hx:before:w-px hx:before:bg-gray-200 hx:before:content-[""] hx:ltr:ml-3 hx:ltr:pl-3 hx:ltr:before:left-0 hx:rtl:mr-3 hx:rtl:pr-3 hx:rtl:before:right-0 hx:dark:before:bg-neutral-800'>
           {{- range $items.ByTitle }}
             {{- $active := eq $pageURL .RelPermalink -}}
-            {{- $shouldOpen := or (.Params.sidebar.open) (.IsAncestor $page) $active | default true }}
+            {{- $isCurrentSection := or $active (.IsAncestor $page) -}}
+            {{- $shouldOpen := and $isCurrentSection (.Params.sidebar.open | default true) -}}
             {{- $linkTitle := partial "utils/title" . -}}
             <li class="hx:flex hx:flex-col {{ if $shouldOpen }}open{{ end }}">
-              {{- template "sidebar-item-link" dict "context" . "active" $active "title" $linkTitle "link" .RelPermalink -}}
+              {{- template "sidebar-item-link" dict "context" . "active" $active "title" $linkTitle "link" .RelPermalink "showButton" $isCurrentSection -}}
               {{- if and $toc $active -}}
                 {{ template "sidebar-toc" dict "page" . }}
               {{- end }}
-              {{ template "sidebar-tree" dict "context" . "page" $page "pageURL" $pageURL "level" (add $level 1) "toc" $toc }}
+              {{- if $isCurrentSection -}}
+                {{ template "sidebar-tree" dict "context" . "page" $page "pageURL" $pageURL "level" (add $level 1) "toc" $toc }}
+              {{- end -}}
             </li>
           {{- end -}}
         </ul>
@@ -162,7 +168,7 @@
 
 {{- define "sidebar-item-link" -}}
   {{- $external := strings.HasPrefix .link "http" -}}
-  {{- $open := .open | default true -}}
+  {{- $showButton := .showButton | default false -}}
   <a
     class="hx:flex hx:items-center hx:justify-between hx:gap-2 hx:cursor-pointer hx:rounded-sm hx:px-2 hx:py-1.5 hx:text-sm hx:transition-colors [-webkit-tap-highlight-color:transparent] [-webkit-touch-callout:none] [word-break:break-word]
     {{- if .active }}
@@ -175,7 +181,7 @@
   >
     {{- .title -}}
     {{- with .context }}
-      {{- if or .RegularPages .Sections }}
+      {{- if and (or .RegularPages .Sections) $showButton }}
         <span class="hextra-sidebar-collapsible-button">
           {{- template "sidebar-collapsible-button" -}}
         </span>
