@@ -5,6 +5,7 @@ sidebar:
   hide: true
 cascade:
   type: docs
+breadcrumbs: false
 ---
 
 This area contains all pre-organized website information as a basis for subsequent comparisons.

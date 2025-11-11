@@ -5,6 +5,7 @@ sidebar:
   hide: true
 cascade:
   type: docs
+breadcrumbs: false
 ---
 
 ## Categories
