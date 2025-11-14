@@ -1,101 +1,171 @@
 ---
 title: Rextron International Inc.
 description: Rextron International Inc. is a leading Taiwan-based manufacturer specializing in the development and integration of KVM switches, digital signage, and AV products since 1998.
-date: 2025-10-22T15:37:00+08:00
+date: 2025-11-14T16:04:00+08:00
 ---
 
 ## Website
+
 [Rextron International Inc. Official Website](https://www.rextron.com)
 
 ## Basic Information
-Rextron International Inc., founded in April 1998, is a specialist in IT product development, focusing on digital signage, KVM (Keyboard, Video, Mouse) switches, and audio/video integration. The company is recognized for its advanced R&D capabilities, modular product design (such as the patented Single Tray Console Drawer in 1999), and innovation in the AV connectivity market. Serving clients in over 40 countries, Rextron operates both its own brand and provides OEM/ODM services. The main business is headquartered in Taiwan and the company is well known for building reliable, high-quality solutions for efficient computer management and AV applications.
-*Sources: [History of Rextron](https://www.rextron.com/msg/History-of-Rextron.html), [Company Profile](https://www.rextron.com/msg/msg2.html), [Contact](https://www.rextron.com/msg/message-Contact-19.html)*
+
+Rextron International Inc., established in 1998 and headquartered in Taipei City, Taiwan, is a leader in the IT industry specializing in the design and manufacture of KVM switches, professional audio/video transmission solutions, and related computer peripheral equipment. The company has developed its own brand and provides OEM/ODM services to clients in over 40 countries. Its product portfolio includes 4K HDMI HDBaseT extenders, HDMI KVM extenders, and a variety of switching devices for IT infrastructure and AV applications. The head office is located at 4F., No. 98, Sec. 2, Zhongxiao E. Rd., Zhongzheng Dist., Taipei City, Taiwan.
+
+Sources: [Taiwantrade](https://rextron.en.taiwantrade.com/about-us), [Metoree](https://us.metoree.com/companies/141110/), [Dun & Bradstreet Taiwan](https://dunscertified.dnb.com.tw/en/DUNSCertifiedProfile/Download/DCP656570285)
 
 ## Awards
-No specific awards are listed.
+
+No awards information is currently listed.
 
 ## Certifications
-Rextron International Inc. products are labeled with FCC, CE, and VCCI marks, and conform to RoHS & REACH standards. The company is also ISO-9001 certified and its products adopt IEC standards. Additionally, Rextron is a member of HDCP, HDMI, and HDBaseT organizations.
-*Source: [Management Team](https://www.rextron.com/msg/Management-Team.html)*
+
+Rextron International Inc. has obtained a wide range of internationally recognized product certifications, including:
+
+- ISO 9001:2015 (Quality Management Systems)
+- FCC (Federal Communications Commission, USA)
+- CE (European Union CE Marking)
+- REACH (EU regulation for chemicals)
+- RoHS (Restriction of Hazardous Substances)
+- UKCA (UK Conformity Assessed)
+- VCCI (Japan)
+- TAA (Trade Agreements Act Compliance)
+- HDMI (High-Definition Multimedia Interface) certification
+
+Source: [Taiwantrade Certifications](https://www-onepage.taiwantrade.com/certification/rextron-international-inc-24319300.html)
 
 ## Key Features
-Rextron International Inc. is a leading provider specializing in high-end audio/video and KVM (Keyboard, Video, Mouse) connectivity and management solutions. Key features and main capabilities include:
 
-- A comprehensive range of products such as KVM switches, KVM matrix, video switches, video splitters, KVM and video extenders (including HDBaseT and fiber), multi-format video solutions, USB and KM switch products, EDID emulators, video boosters, video converters, rack console drawers, and table box & wall plate solutions.
-- Advanced technology support for up to 8K and 4K video resolutions, and USB 3.2 Gen 2 (10Gbps) KVM switching.
-- Innovative functions like seamless switching, PIP/PBP (Picture-in-Picture/Picture-by-Picture), mouse roaming, full-frame PBP KVM switch, and video scaling.
-- OEM/ODM services for customized solutions tailored to customer requirements.
-- Applications in diverse markets including control centers, education, live events (concerts), churches, and healthcare.
-- TAA-compliant offerings supporting government and institutional contracts.
-- Focus on efficiency, space, and cost savings by enabling multiple computers to share input/output devices and offering centralized control.
-- Active participation in major industry events like COMPUTEX, highlighting product innovation.
+Rextron International Inc. specializes in high-end AV connectivity and management solutions, emphasizing integrated KVM (Keyboard, Video, Mouse) technology. Key features include:
 
-*Source: [Rextron Official Website](https://www.rextron.com)*
+- Broad range of KVM Switches (USB-C, HDMI, DisplayPort, multi-monitor/dual-monitor types), KVM Matrices, and KVM Extenders (over CAT6, fiber, HDBaseT)
+- AV signal management: video switchers, splitters, video matrix, and AV wall plates
+- Advanced video extension up to 8K/4K UHD, supporting seamless switching, scaling, mouse roaming, PBP (Picture by Picture), and PIP (Picture in Picture)
+- Solutions for control centers, education, live events/concerts, and houses of worship
+- EDID management devices, video boosters, converters, and rack console drawers for professional and enterprise IT environments
+- Strong OEM/ODM and customization capabilities
+- Compliance with TAA and other key IT standards; participation in international exhibitions such as COMPUTEX
+
+Source: [Rextron Official Website](https://www.rextron.com/)
 
 ## Featured Products
 
-- **[VDDC-130HDMI HDMI EDID Feeder](https://www.rextron.com/product-3-in-1-HDMI-EDID-FEEDER-With-Ghost---Emulator-VDDC-130HDMI.html):**
-  A 3-in-1 HDMI EDID Feeder with Ghost Emulator, designed to store and emulate EDID information for optimal video display. Keeps EDID info, recalls non-volatile memory settings, and permits sources to boot with accuracy.
+Rextron specializes in advanced AV and KVM solutions. Major products include:
 
-- **[VKSCM-201 4K 2 Ports HDMI Switch](https://www.rextron.com/product-2-Ports-4K-HDMI-Video-Switch-VKSCM-201.html):**
-  An advanced HDMI switch featuring Picture-in-Picture (PIP), Picture-by-Picture (PBP), scaler, audio embedding/de-embedding, and video mixing functionality. Supports multiple video sources to one output device.
+1. **Dual Monitor USB HDMI Extender (EVVBMU-M3020)**
+   Extends dual HDMI, USB 2.0, audio, and serial signals up to 70~100 meters over Cat6A/7 cable via HDBaseT 3.0. Supports uncompressed 4K@60Hz (4:4:4) video and 480Mbps USB 2.0 transmission.
+   [Product Details](https://www.rextron.com/product-Dual-Monitor-KVM-USB-HDMI-Extender-Signal-Extension-up-to-100M-EVVBMU-M3020.html)
 
-- **[EVBM-M6117 True 4K HDMI Extender over CAT.x](https://www.rextron.com/product-4K-6G-HDBaseT-HDMI-Extender-over-CATx-EVBM-M6117.html):**
-  A 4K 6G HDBaseT HDMI extender with IR, capable of transmitting HDMI signals over CAT.x cable up to 70M. Supports VGA, HDMI, and DisplayPort interfaces.
+2. **Dual Console USB2.0 KVM Extender (EGBMU-M3015)**
+   Extends HDMI, USB 2.0, audio, and serial up to 70~100 meters with dual console support.
+   [Product Details](https://www.rextron.com/product-Dual-Console-HDMI-KVM-Extender-upto-100m-EGBMU-M3015.html)
 
-- **[GQSM-200 HDMI Video Processor](https://www.rextron.com/product-4K-HDMI-Video-Processor-GQSM-200.html):**
-  HDMI video processor with 2 inputs and 2 outputs to convert signals into PiP, PbP, multiplex, split, and switch-splitter display modes. Supports resolutions up to 4K@60Hz.
+3. **DP Dual Video KVM Extender (EXXPS-M043)**
+   Allows dual DisplayPort, two-way audio, USB 2.0, IR, and RS-232 signals to be extended up to 150 meters over CAT6 cable, supporting 4K DP video.
+   [Product Details](https://www.rextron.com/product-Dual-Video-4K-DisplayPort-KVM-Extender-With-USB,-Audio,-IR,-Serial,-150M-EXXPS-M043.html)
 
-- **[VKSM-6G108 HDMI Video Splitter](https://www.rextron.com/product-8-Port-4K-HDMI-2-0-Splitter-VKSM-6G108.html):**
-  8-Port 4K HDMI 2.0 splitter featuring easy-scaling, supports VGA, DVI, HDMI, and DisplayPort. Most models include Auto EDID or EDID learning and ensure HDCP compliance for easy source-display management.
+4. **4K/8K HDMI Switch Splitter (VKSM-8K212)**
+   2 inputs and 2 outputs, supports HDMI resolutions up to 8K@60Hz, 5K@120Hz, Dynamic HDR, and 40G bandwidth FRL transmission.
+   [Product Details](https://www.rextron.com/product-2-Input-2-Output-8K-5K-HDMI-Switch-Splitter-VKSM-8K212.html)
 
-- **[EVBM-M6119 True 4K HDMI Extender over CAT.x](https://www.rextron.com/product-4K-6G-HDBaseT-HDMI-Extender-over-CATx-Support-HDCP-2-2-(100M)-EVBM-M6119.html):**
-  4K 6G HDBaseT HDMI extender over CAT.x with IR, 100M (PoC). Compliant with advanced features for VGA, HDMI, or DisplayPort interfaces.
+**Highlighted Categories:**
+- KVM Switch & KVM Matrix
+- Video Switch, Video Splitter, Video Matrix
+- KVM Extender & Video Extender
+- HDBaseT Extender
+- Fiber Video Extender & Fiber KVM Extender
+- KM Switch & USB Products
+- Table Box & Wall Plate
+- EDID Feeder, Video Booster & Converter
+- Rack Console Drawer
 
-- **[EGBMU-M2010 HDMI 2.0 HDBaseT 2.0 KVM Extender](https://www.rextron.com/product-True-4K-HDBaseT-USB-2-0-HDMI-KVM-Extender-EGBMU-M2010.html):**
-  HDMI 2.0 KVM extender with HDBaseT 2.0 support, RS-232 serial extension up to 115,200bps, enabling hardware remote access and control for all RS-232 protocol devices.
+**Special Features/Series:**
+- 8K Series Products
+- USB 3.2 Gen 2 KVM Switch (10Gbps)
+- HDBaseT 3.0 Extender
+- Dual Video Extender over one cable
+- USB-C KVM Switch
+- PIP/PBP and Quad View KVM Switch
+- Mouse Roaming Function
+
+For a full list and updates: [Rextron New Products](https://www.rextron.com/new-products.html)
+
+Sources: [New Products](https://www.rextron.com/new-products.html)
 
 ## Marketing Focus
-Rextron International Inc. focuses on the development and manufacture of KVM (Keyboard, Video, Mouse) switches, AV (audio/video) product integration, digital signage solutions, and related IT connectivity products such as extenders, matrix switchers, splitters, and converters. Their marketing emphasizes innovative, high-quality, and reliable engineering and manufacturing services, including OEM and ODM capabilities, to meet the demanding needs of modern IT infrastructure.
 
-They position themselves as a solution provider not only for standard IT and server management but also for specialized environments such as command and control centers, education, enterprise, commercial applications, concerts, airports, railway stations, and custom projects requiring large-scale video/data distribution or seamless multi-system control.
+Rextron International Inc. positions itself as a first-tier provider of IT and IoT products, targeting government and commercial projects. The company aims to be the preferred partner for smart application integration with AV system companies both locally and globally. Its marketing strategy focuses on high-quality, integrated AV and IT solutions for professional, enterprise-level, and governmental customers requiring scalable, reliable, and cutting-edge technology for audio, video, and control systems management.
 
-Their target audience includes enterprise IT managers, system integrators, AV professionals, public sector organizations (such as airports and government), education institutions, and industrial users looking for efficient, scalable, and robust connectivity solutions.
-
-*Sources: [Company Profile](https://www.rextron.com/msg/msg2.html), [Solutions](https://www.rextron.com/msg/message-Solutions-6.html)*
+Source: [Mission and Vision of Rextron](https://www.rextron.com/msg/Mission-and-Vision-of-Rextron.html)
 
 ## Technical Strength
-Rextron International Inc. specializes in advanced AV connectivity and management solutions, with a strong focus on KVM (Keyboard, Video, Mouse) technology. Their technical strengths include a comprehensive range of KVM switches, KVM extenders (including USB-C and fiber-based models), video switchers, video matrices, and HDBaseT extenders.
 
-Notable innovations include support for 8K and 4K video resolutions, seamless switching functions, 10Gbps USB 3.2 Gen 2 transmission, EDID management and emulation, mouse roaming, full-frame PBP (Picture-by-Picture) and PIP (Picture-in-Picture) features, and custom OEM/ODM services.
+Rextron demonstrates robust technical capabilities in:
 
-They cater to demanding environments such as control centers, education, healthcare, and entertainment venues, integrating stable and scalable hardware design with multi-format and multi-protocol support (HDMI, DisplayPort, USB, Audio, Serial). Their success cases and solution breadth demonstrate strong R&D capacity and technical adaptability for professional and industrial AV/KVM needs.
+1. **Advanced Product Line:**
+   - Broad selection of KVM switches and matrices (up to 8K DP 1.4/HDMI 2.1)
+   - Video switchers, splitters, KVM/video extenders (over CAT, HDBaseT 3.0, and fiber), USB switching devices
+   - Support for 8K video, USB 3.2 Gen 2 speeds (10Gbps), and USB-C Power Delivery (PD) charging
 
-*Source: [Rextron Official Website](https://www.rextron.com)*
+2. **Seamless Integration & Switching:**
+   - Seamless switching, mouse roaming, full-frame PBP and PIP, and customizable console control for complex AV setups
+
+3. **EDID Management & Video Processing:**
+   - Advanced EDID management (including 8K EDID emulation/export/import) and video scaling for optimal compatibility and video quality
+   [Example Product](https://www.rextron.com/product-8K-EDID-Emulator-PRO-Version-with-EDID-Management-VDDC-8K120.html)
+
+4. **OEM/ODM Expertise:**
+   - Proficient in providing OEM/ODM KVM and AV solutions for global clients, supporting both mass production and customized needs
+   [OEM/ODM Service Info](https://www.rextron.com/msg/message-OEM-ODM-Service-72.html)
+
+5. **Diverse Application Scenarios:**
+   - Adopted in sectors such as control centers, education, broadcast, events, churches, and healthcare; TAA-compliant for government use
+   [Solutions Overview](https://www.rextron.com/msg/message-Solutions-6.html)
+
+6. **Continuous Innovation:**
+   - Recent releases include 8K-capable video/KVM devices, fiber optic/HDBaseT extenders, and multi-format switchers
+
+Source: [Rextron Official Website](https://www.rextron.com/)
 
 ## Environment / Society / Governance
-Rextron International Inc. highlights several ESG-related practices on its official website. For environment and governance, the company’s products comply with international safety and environmental standards such as FCC, CE, VCCI marks, and conform to RoHS & REACH standards. Rextron is also ISO-9001 certified, indicating a commitment to quality management and continuous improvement.
 
-The company emphasizes continuous improvements in its manufacturing and testing processes and has established supplier, production, and shipment control systems. For social responsibility, Rextron mentions a well-organized CSR (Corporate Social Responsibility) team dedicated to customer satisfaction and efficient problem resolution. However, no detailed or quantifiable public data (e.g., specific investments or measurable achievements in ESG) is disclosed, only general statements about policies and certifications.
+Rextron International Inc. is committed to ESG (Environment, Society, and Governance) with the following initiatives:
 
-*Source: [Management Team](https://www.rextron.com/msg/Management-Team.html)*
+- **Environmental:**
+  Compliance with RoHS and REACH standards, indicating reduced hazardous substances and environmental responsibility.
+- **Societal:**
+  Well-organized CSR (Corporate Social Responsibility) team, ERP systems for supplier management, production quality, and timely delivery. Emphasis on customer satisfaction, continuous improvement, and lean practices.
+- **Governance:**
+  Maintains FCC, CE, VCCI certifications; member of HDCP, HDMI, and HDBaseT organizations, demonstrating compliance and industry engagement.
+
+Source: [Rextron Management Team](https://www.rextron.com/msg/Management-Team.html)
 
 ## OEM / ODM / White Label Support
-Rextron International Inc. offers both OEM and ODM services, specializing in KVM and AV products. Their R&D team provides expertise in software, firmware, hardware, and graphic design, supporting custom projects for global industry clients. The company's website details extensive experience in developing and manufacturing to meet OEM/ODM requirements, but there is no mention of white label services.
 
-*Source: [OEM/ODM Service](https://www.rextron.com/msg/message-OEM-ODM-Service-72.html)*
+Rextron International Inc. explicitly offers both OEM (Original Equipment Manufacturer) and ODM (Original Design Manufacturer) services for KVM and audio/video products, with extensive experience in R&D and production for customized solutions and global brands. However, there is no mention of white label services on their official OEM/ODM service page.
+
+Source: [OEM/ODM Service](https://www.rextron.com/msg/message-OEM-ODM-Service-72.html)
 
 ## Pricing
-No pricing information is provided.
+
+No pricing information is currently provided.
 
 ## Testimonials
 
-> "Rextron has secured excellent feedback from end-users and OEM/ODM dealers," and its strict quality control is highlighted as a strength.
+> "Rextron International is an OEM manufacturer for a lot of different products by a bunch of different manufacturers, both Enterprise, house brands and budget equipment."
 >
-> *Source: [Product.tw](http://tw.product.tw/modules.php?modules=company&action=company_inside&ID=E0358216)*
+> — [Reddit](https://www.reddit.com/r/buildapc/comments/17h6gtk/hunting_for_a_new_kvm_rebranded_kvms/)
 
-> "Strict quality control... OEM/ODM also receives very high ratings. The engineering team has extensive experience, and the spirit of continuous improvement is the element that makes Rextron lead other brands in global competition."
+> "Rextron is a Taiwanese company that last I checked (2020) manufactured out of Taiwan. They're the OEM for Level1Techs' KVMs, which are highly regarded."
 >
-> *Source: [TEEMA ICT](https://ict.teema.org.tw/ebookqr/profile.asp?id=1783)*
+> — [Reddit](https://www.reddit.com/r/avoidchineseproducts/comments/1avqzbi/kvm_recommendations/)
 
-Individual customer testimonials or reviews on retail or public forums are not directly available.
+> "Getting some of the inputs and USB ports working was kind of tricky/annoying too. I ran across this while I was looking: Rextron PAAG-ET3132B."
+>
+> — [Reddit](https://www.reddit.com/r/homelab/comments/so9tbw/can_anyone_advise_on_a_triple_monitor_kvm_setup/)
+
+> "I am trying to connect my PC to a Rextron 4 Ports 8K DisplayPort 1.4 KVM Switch With USB 3.2 Gen 1, Audio, Hotkey Control (PAAG-E3114B) 20ft away. I use the computers connected to it for gaming, video editing, and a server."
+>
+> — [Reddit](https://www.reddit.com/r/pcmasterrace/comments/125irgv/30ft_displayport_14_cable_that_works_with_my_kvm/)
+
+These testimonials are taken from Reddit discussions, indicating recognition of Rextron as an OEM manufacturer and providing insights into product use cases and user experiences.
