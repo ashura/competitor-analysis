@@ -1,5 +1,4 @@
 ---
-linkTitle: www.ggimage.com
 title: G&G Image
 description: G&G Image is a premium global brand delivering cost-effective, high-quality printer consumables, including ink and toner cartridges. Established in 2000, the company focuses on innovative, reliable print solutions and serves millions of customers in over 170 countries.
 date: 2025-09-24T15:37:00+08:00

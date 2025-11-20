@@ -1,5 +1,4 @@
 ---
-linkTitle: www.fcs.com.tw
 title: Fu Chun Shin Machinery Manufacture Co., Ltd.
 description: Fu Chun Shin Machinery Manufacture Co., Ltd. (FCS) is Taiwan’s largest plastic injection molding machine manufacturer, established in 1974 in Tainan, offering a wide range of hydraulic, electric, and multi-component machines with global operations and five production bases.
 date: 2025-09-25T17:50:00+08:00

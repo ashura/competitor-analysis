@@ -1,5 +1,4 @@
 ---
-linkTitle: www.living1991.com
 title: Living Fountain Plastic Industrial Co., Ltd.
 description: Living Fountain Plastic Industrial Co., Ltd. is a Taiwan-based OEM/ODM supplier specializing in plastic packaging solutions such as dispensing pumps, trigger sprayers, bottles, and closures. Since 1991, the company has focused on innovation and sustainability, pioneering the use of post-consumer recycled (PCR) plastics and providing customized design, molding, and labeling services for diverse industries worldwide.
 date: 2025-10-16T17:00:00+08:00

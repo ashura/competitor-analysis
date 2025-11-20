@@ -1,5 +1,4 @@
 ---
-linkTitle: www.leamaxx.com
 title: Leamaxx Bubble Tea
 description: Leamaxx Bubble Tea is a Taiwan-based wholesale supplier specializing in bubble tea ingredients and supplies, offering a wide range of products including tapioca pearls, fruit syrup, powders, packaging, and training services for boba tea businesses worldwide.
 date: 2025-09-24T12:23:00+08:00
